@@ -1,0 +1,847 @@
+[
+   # https://developers.google.com/youtube/v3/docs/subscriptions/delete
+   [ "nourish.", "https://www.youtube.com/@nourish" ],
+   [ "4viator", "https://www.youtube.com/@4viator" ],
+   [ "Aaron Matthews & Sean Kennedy", "https://www.youtube.com/@Curlys_Kitchen" ],
+   [ "Aaron Paulsen", "https://www.youtube.com/@AaronPaulsen" ],
+   [ "aarthificial", "https://www.youtube.com/@aarthificial" ],
+   [ "Addicted to Vocals", "https://www.youtube.com/@addictedtovocals" ],
+   [ "ADHDoers", "https://www.youtube.com/@ADHDoers" ],
+   [ "Adrianne Walujo", "https://www.youtube.com/@adriannewalujo.o" ],
+   [ "AI DRIVR", "https://www.youtube.com/@AIDRIVR" ],
+   [ "AI Explained", "https://www.youtube.com/@aiexplained-official" ],
+   [ "AI Foundations", "https://www.youtube.com/@ai-foundations" ],
+   [ "AI Insider", "https://www.youtube.com/@AI-Insider-" ],
+   [
+       "AI Jason",
+       "https://www.youtube.com/@AIJasonZ"
+   ],
+   [
+       "AI Snap",
+       "https://www.youtube.com/@AISnap."
+   ],
+   [
+       "AI Uncovered",
+       "https://www.youtube.com/@AI.Uncovered"
+   ],
+   [
+       "Alejandro AO - Software & Ai",
+       "https://www.youtube.com/@alejandro_ao"
+   ],
+   [
+       "Alex Hormozi",
+       "https://www.youtube.com/@AlexHormozi"
+   ],
+   [
+       "Alex illustrates",
+       "https://www.youtube.com/@Alexillustrates"
+   ],
+   [
+       "Ali Abdaal",
+       "https://www.youtube.com/@aliabdaal"
+   ],
+   [
+       "All About AI",
+       "https://www.youtube.com/@AllAboutAI"
+   ],
+   [
+       "alpha m.",
+       "https://www.youtube.com/@alpham"
+   ],
+   [
+       "Andrei Jikh",
+       "https://www.youtube.com/@AndreiJikh"
+   ],
+   [
+       "Anna Akana",
+       "https://www.youtube.com/@AnnaAkana"
+   ],
+   [
+       "Anthony Wreyn",
+       "https://www.youtube.com/@AnthonyWreyn"
+   ],
+   [
+       "Apple",
+       "https://www.youtube.com/@Apple"
+   ],
+   [
+       "AR MR XR",
+       "https://www.youtube.com/@ARMRXR"
+   ],
+   [
+       "Arnau Ros",
+       "https://www.youtube.com/@ArnauRos"
+   ],
+   [
+       "AssemblyAI",
+       "https://www.youtube.com/@AssemblyAI"
+   ],
+   [
+       "Awesome",
+       "https://www.youtube.com/@awesome-coding"
+   ],
+   [
+       "B The Trader",
+       "https://www.youtube.com/@BTheStory"
+   ],
+   [
+       "b2studios",
+       "https://www.youtube.com/@b2stud"
+   ],
+   [
+       "Bailey Guilloud",
+       "https://www.youtube.com/@thefourthstate"
+   ],
+   [
+       "BaldCatMemes",
+       "https://www.youtube.com/@BaldCatMemes"
+   ],
+   [
+       "Be Smart",
+       "https://www.youtube.com/@besmart"
+   ],
+   [
+       "Bed Mentor",
+       "https://www.youtube.com/@bedmentor"
+   ],
+   [
+       "Ben Alistor",
+       "https://www.youtube.com/@BenAlistor"
+   ],
+   [
+       "Better Coding Academy",
+       "https://www.youtube.com/@BetterCodingAcademy"
+   ],
+   [
+       "Beyond Fireship",
+       "https://www.youtube.com/@beyondfireship"
+   ],
+   [
+       "Blaine Anderson • Dating Coach",
+       "https://www.youtube.com/@DatingByBlaine"
+   ],
+   [
+       "Brandon Butch",
+       "https://www.youtube.com/@BrandonButch"
+   ],
+   [
+       "Breaking News (Don't Laugh Challenge)",
+       "https://www.youtube.com/@DontLaughNews"
+   ],
+   [
+       "Brett Malinowski",
+       "https://www.youtube.com/@TheBrettWay"
+   ],
+   [
+       "Brooke Monk",
+       "https://www.youtube.com/@Brookemonk"
+   ],
+   [
+       "Bucks",
+       "https://www.youtube.com/@bucksfizzrs"
+   ],
+   [
+       "ByteByteGo",
+       "https://www.youtube.com/@ByteByteGo"
+   ],
+   [
+       "Caler Edwards",
+       "https://www.youtube.com/@CalerEdwards"
+   ],
+   [
+       "CapitalClubCommunity",
+       "https://www.youtube.com/@capitalclubcommunity"
+   ],
+   [
+       "Chef Chris Cho",
+       "https://www.youtube.com/@ChefChrisCho"
+   ],
+   [
+       "Chris Alexiuk",
+       "https://www.youtube.com/@chrisalexiuk"
+   ],
+   [
+       "Chrome for Developers",
+       "https://www.youtube.com/@ChromeDevs"
+   ],
+   [
+       "Cleo Abram",
+       "https://www.youtube.com/@CleoAbram"
+   ],
+   [
+       "Code to the Moon",
+       "https://www.youtube.com/@codetothemoon"
+   ],
+   [
+       "codedamn",
+       "https://www.youtube.com/@codedamn"
+   ],
+   [
+       "Codex Community",
+       "https://www.youtube.com/@CodexCommunity"
+   ],
+   [
+       "Codie Sanchez",
+       "https://www.youtube.com/@CodieSanchezCT"
+   ],
+   [
+       "Coding with Lewis",
+       "https://www.youtube.com/@CodingWithLewis"
+   ],
+   [
+       "Content Machine",
+       "https://www.youtube.com/@content_machine"
+   ],
+   [
+       "CS50",
+       "https://www.youtube.com/@cs50"
+   ],
+   [
+       "Cultivated Culture",
+       "https://www.youtube.com/@cultivatedculture7145"
+   ],
+   [
+       "DaynoArt",
+       "https://www.youtube.com/@daynoart"
+   ],
+   [
+       "DesignCode",
+       "https://www.youtube.com/@DesignCodeTeam"
+   ],
+   [
+       "developedbyed",
+       "https://www.youtube.com/@developedbyed"
+   ],
+   [
+       "Don't Tell Comedy",
+       "https://www.youtube.com/@DontTellComedy"
+   ],
+   [
+       "Dropouts Podcast",
+       "https://www.youtube.com/@DropoutsPodcast"
+   ],
+   [
+       "Easlo",
+       "https://www.youtube.com/@easlo"
+   ],
+   [
+       "Elyse Myers",
+       "https://www.youtube.com/@elyse_myers"
+   ],
+   [
+       "Emergent Garden",
+       "https://www.youtube.com/@EmergentGarden"
+   ],
+   [
+       "Eric Jeng",
+       "https://www.youtube.com/@EricJeng"
+   ],
+   [
+       "Erin McGoff",
+       "https://www.youtube.com/@AdviceWithErin"
+   ],
+   [
+       "Exposure Ninja",
+       "https://www.youtube.com/@ExposureNinja"
+   ],
+   [
+       "Fancyleds",
+       "https://www.youtube.com/@fancyleds"
+   ],
+   [
+       "FeelingBlew",
+       "https://www.youtube.com/@feelingblew"
+   ],
+   [
+       "Figma",
+       "https://www.youtube.com/@Figma"
+   ],
+   [
+       "Fireship",
+       "https://www.youtube.com/@Fireship"
+   ],
+   [
+       "Florin Pop",
+       "https://www.youtube.com/@FlorinPop"
+   ],
+   [
+       "Freya Ridings",
+       "https://www.youtube.com/@FreyaRidingsOfficial"
+   ],
+   [
+       "FullstackWiz",
+       "https://www.youtube.com/@FullstackWiz"
+   ],
+   [
+       "FuncFlow",
+       "https://www.youtube.com/@FuncFlow"
+   ],
+   [
+       "Games4two",
+       "https://www.youtube.com/@Games4two_"
+   ],
+   [
+       "Gift Gecko",
+       "https://www.youtube.com/@giftgeckoo"
+   ],
+   [
+       "GiftGenius (Official Page)",
+       "https://www.youtube.com/@GeniusGifts"
+   ],
+   [
+       "Gigi Vibes",
+       "https://www.youtube.com/@TheGigiVibesBand"
+   ],
+   [
+       "Gleb Sabirzyanov",
+       "https://www.youtube.com/@gleb_sexy"
+   ],
+   [
+       "Google Cloud Tech",
+       "https://www.youtube.com/@googlecloudtech"
+   ],
+   [
+       "Google Search Central",
+       "https://www.youtube.com/@GoogleSearchCentral"
+   ],
+   [
+       "GoViralMusic",
+       "https://www.youtube.com/@goviralmusic_official"
+   ],
+   [
+       "Graham Stephan",
+       "https://www.youtube.com/@GrahamStephan"
+   ],
+   [
+       "Greenskull AI",
+       "https://www.youtube.com/@GreenskullAI"
+   ],
+   [
+       "GreenSockLearning",
+       "https://www.youtube.com/@GreenSockLearning"
+   ],
+   [
+       "Greg Kamradt (Data Indy)",
+       "https://www.youtube.com/@DataIndependent"
+   ],
+   [
+       "GROWTH PROJECT EN",
+       "https://www.youtube.com/@Growthproject_en"
+   ],
+   [
+       "Hacker Shack",
+       "https://www.youtube.com/@hackershack"
+   ],
+   [
+       "HackerSploit",
+       "https://www.youtube.com/@HackerSploit"
+   ],
+   [
+       "HuggingFace",
+       "https://www.youtube.com/@HuggingFace"
+   ],
+   [
+       "HustlersQuots",
+       "https://www.youtube.com/@HustlersQuots"
+   ],
+   [
+       "Hyperplexed",
+       "https://www.youtube.com/@Hyperplexed"
+   ],
+   [
+       "IBM Technology",
+       "https://www.youtube.com/@IBMTechnology"
+   ],
+   [
+       "Imran | The Finance Engineer",
+       "https://www.youtube.com/@TheFinanceEngineer"
+   ],
+   [
+       "Indently",
+       "https://www.youtube.com/@Indently"
+   ],
+   [
+       "Jack Herrington",
+       "https://www.youtube.com/@jherr"
+   ],
+   [
+       "Jacob Markovich",
+       "https://www.youtube.com/@JacobMarkovich"
+   ],
+   [
+       "JBV Creative",
+       "https://www.youtube.com/@JBVCreative"
+   ],
+   [
+       "Jeff Su",
+       "https://www.youtube.com/@JeffSu"
+   ],
+   [
+       "Jessica Steinrock | Intimacy Coordinator",
+       "https://www.youtube.com/@intimacycoordinator"
+   ],
+   [
+       "Joseph Oliver",
+       "https://www.youtube.com/@Joseph.Oliver"
+   ],
+   [
+       "Josh tried coding",
+       "https://www.youtube.com/@joshtriedcoding"
+   ],
+   [
+       "Joshua Morony",
+       "https://www.youtube.com/@JoshuaMorony"
+   ],
+   [
+       "Joy of Code",
+       "https://www.youtube.com/@JoyofCodeDev"
+   ],
+   [
+       "Justice Buys",
+       "https://www.youtube.com/@justicebuys1"
+   ],
+   [
+       "Juxtopposed",
+       "https://www.youtube.com/@juxtopposed"
+   ],
+   [
+       "Kaelynn Partlow",
+       "https://www.youtube.com/@Kaelynnism"
+   ],
+   [
+       "Karat",
+       "https://www.youtube.com/@trykarat"
+   ],
+   [
+       "Kay and Tay Official",
+       "https://www.youtube.com/@KayAndTay"
+   ],
+   [
+       "Kevin Powell",
+       "https://www.youtube.com/@KevinPowell"
+   ],
+   [
+       "Kiaan Castillo",
+       "https://www.youtube.com/@KiaanCastillo"
+   ],
+   [
+       "Kim Alban",
+       "https://www.youtube.com/@KimAlban"
+   ],
+   [
+       "King Tafah",
+       "https://www.youtube.com/@WarrenTafah"
+   ],
+   [
+       "KUCH BHI",
+       "https://www.youtube.com/@youtubeessentials4874"
+   ],
+   [
+       "Lame Dad Jokes",
+       "https://www.youtube.com/@LameDadJokes"
+   ],
+   [
+       "Larissa Liveir",
+       "https://www.youtube.com/@LarissaLiveir"
+   ],
+   [
+       "LASTLINGS",
+       "https://www.youtube.com/@lastlingsmusic"
+   ],
+   [
+       "Laura - Foster Parent Partner",
+       "https://www.youtube.com/@foster.parenting"
+   ],
+   [
+       "Leadley",
+       "https://www.youtube.com/@Leadley"
+   ],
+   [
+       "leddoo",
+       "https://www.youtube.com/@leddoo"
+   ],
+   [
+       "Lee Robinson",
+       "https://www.youtube.com/@leerob"
+   ],
+   [
+       "Life Of Riza",
+       "https://www.youtube.com/@LifeOfRiza"
+   ],
+   [
+       "LiveOverflow",
+       "https://www.youtube.com/@LiveOverflow"
+   ],
+   [
+       "Living Well with Schizophrenia",
+       "https://www.youtube.com/@LivingWellwithSchizophrenia"
+   ],
+   [
+       "LLusion",
+       "https://www.youtube.com/@LLusion"
+   ],
+   [
+       "Low Level Learning",
+       "https://www.youtube.com/@LowLevelLearning"
+   ],
+   [
+       "Lucas VRTech",
+       "https://www.youtube.com/@LucasVRTech"
+   ],
+   [
+       "Mackenzie Keister",
+       "https://www.youtube.com/@kenziekeister"
+   ],
+   [
+       "Maggie McGaugh",
+       "https://www.youtube.com/@MaggieMcGaugh"
+   ],
+   [
+       "magnify",
+       "https://www.youtube.com/@_magnify"
+   ],
+   [
+       "Making the Photo: AI Edition",
+       "https://www.youtube.com/@MakingPhoto"
+   ],
+   [
+       "Marie Poulin",
+       "https://www.youtube.com/@MariePoulin"
+   ],
+   [
+       "Marques Brownlee",
+       "https://www.youtube.com/@mkbhd"
+   ],
+   [
+       "Masculine Peak",
+       "https://www.youtube.com/@masculinepeaks"
+   ],
+   [
+       "Matt Wolfe",
+       "https://www.youtube.com/@mreflow"
+   ],
+   [
+       "Matthew Berman",
+       "https://www.youtube.com/@matthew_berman"
+   ],
+   [
+       "McNallyOfficial",
+       "https://www.youtube.com/@McNallyOfficial"
+   ],
+   [
+       "mCoding",
+       "https://www.youtube.com/@mCoding"
+   ],
+   [
+       "me JITESH",
+       "https://www.youtube.com/@mejitesh3907"
+   ],
+   [
+       "Michelle Khare",
+       "https://www.youtube.com/@MichelleKhare"
+   ],
+   [
+       "mimijinks",
+       "https://www.youtube.com/@mimijinks706"
+   ],
+   [
+       "Minh Pham",
+       "https://www.youtube.com/@MinhPhamDesign"
+   ],
+   [
+       "More Ryan Serhant",
+       "https://www.youtube.com/@MoreRyanSerhant"
+   ],
+   [
+       "Movementgems",
+       "https://www.youtube.com/@Movementgems"
+   ],
+   [
+       "Mrwhosetheboss Shorts",
+       "https://www.youtube.com/@MrwhosethebossShorts"
+   ],
+   [
+       "No Boilerplate",
+       "https://www.youtube.com/@NoBoilerplate"
+   ],
+   [
+       "Nodus Labs",
+       "https://www.youtube.com/@noduslabs"
+   ],
+   [
+       "Notionway",
+       "https://www.youtube.com/@notionway"
+   ],
+   [
+       "NPR Music",
+       "https://www.youtube.com/@nprmusic"
+   ],
+   [
+       "ODESZA",
+       "https://www.youtube.com/@odesza"
+   ],
+   [
+       "Oliver Brocato",
+       "https://www.youtube.com/@oliverbrocato"
+   ],
+   [
+       "Olivia Lutfallah",
+       "https://www.youtube.com/@olivialutfallah"
+   ],
+   [
+       "Options Millionaire",
+       "https://www.youtube.com/@OptionsMillionaire"
+   ],
+   [
+       "OverTiime",
+       "https://www.youtube.com/@overtiime"
+   ],
+   [
+       "Parker York Smith",
+       "https://www.youtube.com/@ParkerYorkSmith"
+   ],
+   [
+       "Phillip Q Vu",
+       "https://www.youtube.com/@PhillipVu"
+   ],
+   [
+       "Physics Girl",
+       "https://www.youtube.com/@physicsgirl"
+   ],
+   [
+       "Pinecone",
+       "https://www.youtube.com/@pinecone-io"
+   ],
+   [
+       "PIRATE KING",
+       "https://www.youtube.com/@PIRATEKINGDOM"
+   ],
+   [
+       "Pirate Software",
+       "https://www.youtube.com/@PirateSoftware"
+   ],
+   [
+       "Project JDM",
+       "https://www.youtube.com/@project_jdm"
+   ],
+   [
+       "Prompt Engineering",
+       "https://www.youtube.com/@engineerprompt"
+   ],
+   [
+       "Pseudo AI",
+       "https://www.youtube.com/@pseudoai1634"
+   ],
+   [
+       "Punit Chawla",
+       "https://www.youtube.com/@PunitChawla"
+   ],
+   [
+       "QuarterJade Shorts",
+       "https://www.youtube.com/@QuarterJadeShorts"
+   ],
+   [
+       "Rabbit Hole Syndrome",
+       "https://www.youtube.com/@RabbitHoleSyndrome"
+   ],
+   [
+       "Rabbitmetrics",
+       "https://www.youtube.com/@rabbitmetrics"
+   ],
+   [
+       "Raine Emery",
+       "https://www.youtube.com/@RaineEmery"
+   ],
+   [
+       "Ravi - Perfect Base",
+       "https://www.youtube.com/@perfectbase"
+   ],
+   [
+       "RealityX Light",
+       "https://www.youtube.com/@realityxlight4151"
+   ],
+   [
+       "Reducible",
+       "https://www.youtube.com/@Reducible"
+   ],
+   [
+       "Rick Glassman",
+       "https://www.youtube.com/@rickglassman"
+   ],
+   [
+       "Roman Atwood Vlogs",
+       "https://www.youtube.com/@romanatwoodvlogs"
+   ],
+   [
+       "Rose Han",
+       "https://www.youtube.com/@itsrosehan"
+   ],
+   [
+       "Sam Reich",
+       "https://www.youtube.com/@samreich"
+   ],
+   [
+       "Sam Smyers",
+       "https://www.youtube.com/@samsmyers"
+   ],
+   [
+       "SamsonGG",
+       "https://www.youtube.com/@samsonjc22"
+   ],
+   [
+       "Satori Graphics",
+       "https://www.youtube.com/@SatoriGraphics"
+   ],
+   [
+       "Science of People",
+       "https://www.youtube.com/@ScienceOfPeople"
+   ],
+   [
+       "Scott Paul Johnson",
+       "https://www.youtube.com/@ScottPaulJohnson"
+   ],
+   [
+       "Sean Allen",
+       "https://www.youtube.com/@seanallen"
+   ],
+   [
+       "sentdex",
+       "https://www.youtube.com/@sentdex"
+   ],
+   [
+       "Simon Høiberg",
+       "https://www.youtube.com/@SimonHoiberg"
+   ],
+   [
+       "Simone Giertz",
+       "https://www.youtube.com/@simonegiertz"
+   ],
+   [
+       "SithDev",
+       "https://www.youtube.com/@sithdev8206"
+   ],
+   [
+       "Slaying The Dragon",
+       "https://www.youtube.com/@slayingthedragon"
+   ],
+   [
+       "Software Level Up",
+       "https://www.youtube.com/@SoftwareLevelUp"
+   ],
+   [
+       "Stephanie Soo",
+       "https://www.youtube.com/@StephanieSoo"
+   ],
+   [
+       "Steve (Builder.io)",
+       "https://www.youtube.com/@Steve8708"
+   ],
+   [
+       "Steven Schapiro",
+       "https://www.youtube.com/@StevenSchapiro"
+   ],
+   [
+       "Stuff You Actually Need",
+       "https://www.youtube.com/@stuffyouactuallyneed826"
+   ],
+   [
+       "t3ssel8r",
+       "https://www.youtube.com/@t3ssel8r"
+   ],
+   [
+       "Testing AI",
+       "https://www.youtube.com/@testingai"
+   ],
+   [
+       "ThatWasEpic",
+       "https://www.youtube.com/@ThatWasEpic11"
+   ],
+   [
+       "The Avant Garde",
+       "https://www.youtube.com/@The_AvantGarde"
+   ],
+   [
+       "The Dr. John Delony Show",
+       "https://www.youtube.com/@TheDrJohnDelonyShow"
+   ],
+   [
+       "The Holistic Psychologist",
+       "https://www.youtube.com/@TheHolisticPsychologist"
+   ],
+   [
+       "The Johnson Brothers",
+       "https://www.youtube.com/@the.johnsonbrothers"
+   ],
+   [
+       "The Mindset Guy Shorts",
+       "https://www.youtube.com/@TheMindsetGuyyShorts"
+   ],
+   [
+       "The Planetary Society",
+       "https://www.youtube.com/@planetarysociety"
+   ],
+   [
+       "TheAIGRID",
+       "https://www.youtube.com/@TheAiGrid"
+   ],
+   [
+       "Theo - t3․gg",
+       "https://www.youtube.com/@t3dotgg"
+   ],
+   [
+       "This Week in Startups",
+       "https://www.youtube.com/@startups"
+   ],
+   [
+       "Thomas Mulligan",
+       "https://www.youtube.com/@thomasmulligan"
+   ],
+   [
+       "Till Musshoff",
+       "https://www.youtube.com/@tillmusshoff"
+   ],
+   [
+       "Tori Trades",
+       "https://www.youtube.com/@ToriTrades"
+   ],
+   [
+       "UltimateMotivation",
+       "https://www.youtube.com/@Ultimate_Motivation"
+   ],
+   [
+       "Vlad SlickBartender",
+       "https://www.youtube.com/@VladSlickBartender"
+   ],
+   [
+       "Wanderlust Alley",
+       "https://www.youtube.com/@wanderlustalley"
+   ],
+   [
+       "warpdotdev",
+       "https://www.youtube.com/@warpdotdev"
+   ],
+   [
+       "Wawa Sensei",
+       "https://www.youtube.com/@WawaSensei"
+   ],
+   [
+       "WeHouseMemes",
+       "https://www.youtube.com/@WeHouseMemes"
+   ],
+   [
+       "Widespread",
+       "https://www.youtube.com/@WidespreadMotivation"
+   ],
+   [
+       "Your Rich BFF",
+       "https://www.youtube.com/@YourRichBFF"
+   ],
+   [
+       "Zach King",
+       "https://www.youtube.com/@ZachKing"
+   ],
+   [
+       "Zyzz Quality",
+       "https://www.youtube.com/@zyzzquality"
+   ]
+]

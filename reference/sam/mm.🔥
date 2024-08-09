@@ -1,0 +1,15 @@
+from python import Python
+
+fn use_array() raises:
+    # This is equivalent to Python's `import numpy as np`
+    let np = Python.import_module("numpy")
+
+    # Now use numpy as if writing in Python
+    let array = np.array([1, 2, 3])
+    print(array)
+
+def main():
+   # print("hello world")
+   # for x in range(9, 0, -3):
+   #    print(x)
+   use_array()

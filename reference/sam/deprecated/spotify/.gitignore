@@ -1,0 +1,10 @@
+env
+cache
+*.env*
+*node_modules*
+__pycache__
+
+.cache
+
+python-youtube-music
+data/*

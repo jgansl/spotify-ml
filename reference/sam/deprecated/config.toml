@@ -1,0 +1,3 @@
+#https://medium.com/@kaoningyu/streamlit-trick-automatically-reload-webpage-3a8beaa3fb85
+[server]
+runOnSave = true

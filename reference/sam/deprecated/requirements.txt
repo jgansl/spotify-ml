@@ -1,0 +1,18 @@
+jupyter
+pydash
+pytest
+python-dotenv
+spotipy
+ytmusicapi
+
+pocketbase
+redis
+
+streamlit
+streamlit_autorefresh
+watchdog #performance
+
+# python-dotenv
+flask
+flask_restplus
+mongoengine

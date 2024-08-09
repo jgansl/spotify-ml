@@ -1,0 +1,1 @@
+python generate_openelm.py --model [MODEL_NAME] --hf_access_token [HF_ACCESS_TOKEN]

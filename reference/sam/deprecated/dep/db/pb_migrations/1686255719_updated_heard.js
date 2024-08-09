@@ -1,0 +1,21 @@
+migrate((db) => {
+  const dao = new Dao(db)
+  const collection = dao.findCollectionByNameOrId("6sdrnap1eiw7h2i")
+
+  collection.listRule = ""
+  collection.viewRule = ""
+  collection.createRule = ""
+  collection.updateRule = ""
+
+  return dao.saveCollection(collection)
+}, (db) => {
+  const dao = new Dao(db)
+  const collection = dao.findCollectionByNameOrId("6sdrnap1eiw7h2i")
+
+  collection.listRule = null
+  collection.viewRule = null
+  collection.createRule = null
+  collection.updateRule = null
+
+  return dao.saveCollection(collection)
+})

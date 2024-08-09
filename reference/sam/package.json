@@ -1,0 +1,20 @@
+{
+  "name": "sam",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://jgansl@github.com/jgansl/sam.git",
+  "author": "jganstf <jesse@temperandforge.com>",
+  "license": "MIT",
+  "scripts": {
+    "pb": "./db/pocketbase serve --http=\"127.0.0.1:8092\"",
+    "src": "source env/bin/activate",
+    "start": "yarn pb & streamlit run app.py",
+    "run": "yarn pb && python main.py",
+    "listen": "streamlit run listen.py",
+    "pb:listen": "yarn pb & python listen.py",
+    "save": "git stage . && git commit -m \"`date +\"%Y-%m-%d\"`\" && git push"
+  },
+  "dependencies": {
+    "pocketbase": "^0.9.0"
+  }
+}

@@ -1,0 +1,8 @@
+# crewai
+kaggle
+matplotlib
+# mlx
+numpy
+pandas
+scikit-learn
+spotipy

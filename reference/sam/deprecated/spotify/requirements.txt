@@ -1,0 +1,7 @@
+# spotipy
+python-dotenv
+pydash
+#https://github.com/supabase-community/supabase-py
+supabase-py #supabase
+# pocketbase
+# redislite

@@ -1,0 +1,3 @@
+[submodule "Spotify-Machine-Learning"]
+	path = Spotify-Machine-Learning
+	url = https://github.com/cristobalvch/Spotify-Machine-Learning

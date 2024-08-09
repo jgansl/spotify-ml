@@ -1,0 +1,4364 @@
+[
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/06nlkmMuo5XaNQHBIHCv0Z"
+    },
+    "href": "https://api.spotify.com/v1/playlists/06nlkmMuo5XaNQHBIHCv0Z",
+    "id": "06nlkmMuo5XaNQHBIHCv0Z",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b27334578faded74ddfaa3736c0eab67616d0000b273435754b7675254c7baf8eae0ab67616d0000b2736898a982ff3c6049ba52586cab67616d0000b273ccdb9c22f07f24a773110a87",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b27334578faded74ddfaa3736c0eab67616d0000b273435754b7675254c7baf8eae0ab67616d0000b2736898a982ff3c6049ba52586cab67616d0000b273ccdb9c22f07f24a773110a87",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b27334578faded74ddfaa3736c0eab67616d0000b273435754b7675254c7baf8eae0ab67616d0000b2736898a982ff3c6049ba52586cab67616d0000b273ccdb9c22f07f24a773110a87",
+        "width": 60
+      }
+    ],
+    "name": "My playlist #94",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MTEsOTFiNmJlMTMxNjU1YTk1MWIwMWIzNzU4N2Y5OTkxYjNjZjE2MDEyNQ==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/06nlkmMuo5XaNQHBIHCv0Z/tracks",
+      "total": 10
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:06nlkmMuo5XaNQHBIHCv0Z"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/6AF1KcN5KsDB0mg2O537Wo"
+    },
+    "href": "https://api.spotify.com/v1/playlists/6AF1KcN5KsDB0mg2O537Wo",
+    "id": "6AF1KcN5KsDB0mg2O537Wo",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273613503517fc5089aa5a1b554",
+        "width": 640
+      }
+    ],
+    "name": "2023",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "Myw2Y2UwM2QxMWRlMjYwNDcxY2VlMTFkZWFlOGQ5YzcwYzJhY2M1MGRh",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/6AF1KcN5KsDB0mg2O537Wo/tracks",
+      "total": 2
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:6AF1KcN5KsDB0mg2O537Wo"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1E8KYnRbITI2F6"
+    },
+    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8KYnRbITI2F6",
+    "id": "37i9dQZF1E8KYnRbITI2F6",
+    "images": [
+      {
+        "height": null,
+        "url": "https://seeded-session-images.scdn.co/v1/img/track/4D4NLrB9w01tFwDrSkZ6uA/en",
+        "width": null
+      }
+    ],
+    "name": "Fine line - Instrumental (Slowed & Reverb) Radio",
+    "owner": {
+      "display_name": "Spotify",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/spotify"
+      },
+      "href": "https://api.spotify.com/v1/users/spotify",
+      "id": "spotify",
+      "type": "user",
+      "uri": "spotify:user:spotify"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MTY5ODYyMzM3MSwwMDAwMDAwMGVhNTc5NTk5MzhhYmFhOTZlMGQyYzU5NTgwMmE1MjA5",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E8KYnRbITI2F6/tracks",
+      "total": 50
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:37i9dQZF1E8KYnRbITI2F6"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1E4yJ0VEbKlY2N"
+    },
+    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E4yJ0VEbKlY2N",
+    "id": "37i9dQZF1E4yJ0VEbKlY2N",
+    "images": [
+      {
+        "height": null,
+        "url": "https://seeded-session-images.scdn.co/v1/img/artist/7nepWph1tZT5bw2aL4DEci/en",
+        "width": null
+      }
+    ],
+    "name": "Kouss Radio",
+    "owner": {
+      "display_name": "Spotify",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/spotify"
+      },
+      "href": "https://api.spotify.com/v1/users/spotify",
+      "id": "spotify",
+      "type": "user",
+      "uri": "spotify:user:spotify"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MTY5ODYyMjYyNCwwMDAwMDAwMGIzMDEyNTU0YjVhMjUyNjc3YjJiODYzNmIwMjQxYWY1",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E4yJ0VEbKlY2N/tracks",
+      "total": 50
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:37i9dQZF1E4yJ0VEbKlY2N"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/08HzI2bDKCcVzuUuCRH0Tr"
+    },
+    "href": "https://api.spotify.com/v1/playlists/08HzI2bDKCcVzuUuCRH0Tr",
+    "id": "08HzI2bDKCcVzuUuCRH0Tr",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b27350c93d9479780444ecbc9f79ab67616d0000b2738b3877ab941fa29d148242c0ab67616d0000b2739cf4ac84b224a02f34d2e4f6ab67616d0000b273da8bdb3ba4c78267c4b21e5e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b27350c93d9479780444ecbc9f79ab67616d0000b2738b3877ab941fa29d148242c0ab67616d0000b2739cf4ac84b224a02f34d2e4f6ab67616d0000b273da8bdb3ba4c78267c4b21e5e",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b27350c93d9479780444ecbc9f79ab67616d0000b2738b3877ab941fa29d148242c0ab67616d0000b2739cf4ac84b224a02f34d2e4f6ab67616d0000b273da8bdb3ba4c78267c4b21e5e",
+        "width": 60
+      }
+    ],
+    "name": "_cache",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MjAxLGFkNTA4NjFjN2JlMzJiN2Q1NDVkYTFiZjNkMTg4MzlhMGEzYTZhMTE=",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/08HzI2bDKCcVzuUuCRH0Tr/tracks",
+      "total": 260
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:08HzI2bDKCcVzuUuCRH0Tr"
+  },
+  {
+    "collaborative": false,
+    "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZEVXbvpLI9vZOceC"
+    },
+    "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXbvpLI9vZOceC",
+    "id": "37i9dQZEVXbvpLI9vZOceC",
+    "images": [
+      {
+        "height": null,
+        "url": "https://newjams-images.scdn.co/image/ab6764780000c480/dt/v3/release-radar/ab6761610000e5eb44efd91d240d9853049612b4/en",
+        "width": null
+      }
+    ],
+    "name": "Release Radar",
+    "owner": {
+      "display_name": "Spotify",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/spotify"
+      },
+      "href": "https://api.spotify.com/v1/users/spotify",
+      "id": "spotify",
+      "type": "user",
+      "uri": "spotify:user:spotify"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MCwwMDAwMDAwMDg2ZGExOThmMzhkZDJiM2EwZDBiZTMzNDc0MDY3OGU0",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXbvpLI9vZOceC/tracks",
+      "total": 30
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:37i9dQZEVXbvpLI9vZOceC"
+  },
+  {
+    "collaborative": false,
+    "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZEVXbkwg9UeOLoTP"
+    },
+    "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXbkwg9UeOLoTP",
+    "id": "37i9dQZEVXbkwg9UeOLoTP",
+    "images": [
+      {
+        "height": null,
+        "url": "https://newjams-images.scdn.co/image/ab6764780000c480/dt/v3/release-radar/ab6761610000e5eba7900eda996fcf20a8b37fb3/en",
+        "width": null
+      }
+    ],
+    "name": "Release Radar",
+    "owner": {
+      "display_name": "Spotify",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/spotify"
+      },
+      "href": "https://api.spotify.com/v1/users/spotify",
+      "id": "spotify",
+      "type": "user",
+      "uri": "spotify:user:spotify"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MCwwMDAwMDAwMDMzZGI1YTA5MDc0ZTlmNWYyZWI0MmY0NzhlMzdlNzc2",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXbkwg9UeOLoTP/tracks",
+      "total": 30
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:37i9dQZEVXbkwg9UeOLoTP"
+  },
+  {
+    "collaborative": false,
+    "description": "Created by Shazam. Made for you. Songs are automatically added to this playlist each time you Shazam.",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/2T2pEQPUbd2qM20Z7GNFMY"
+    },
+    "href": "https://api.spotify.com/v1/playlists/2T2pEQPUbd2qM20Z7GNFMY",
+    "id": "2T2pEQPUbd2qM20Z7GNFMY",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b27380e80913b1a4f1a69be1996aab67616d0000b273a69f71a8794e2d867a52f98fab67616d0000b273b1ec30684e30c7614516a64aab67616d0000b273e4a7d95030296ff2e12f1b74",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b27380e80913b1a4f1a69be1996aab67616d0000b273a69f71a8794e2d867a52f98fab67616d0000b273b1ec30684e30c7614516a64aab67616d0000b273e4a7d95030296ff2e12f1b74",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b27380e80913b1a4f1a69be1996aab67616d0000b273a69f71a8794e2d867a52f98fab67616d0000b273b1ec30684e30c7614516a64aab67616d0000b273e4a7d95030296ff2e12f1b74",
+        "width": 60
+      }
+    ],
+    "name": "My Shazam Tracks",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "OCwzNDAzYmYzNWVhYmExZjIyZDc3NzM2Y2VjZDYwMzlhM2E1OGM4NjQw",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/2T2pEQPUbd2qM20Z7GNFMY/tracks",
+      "total": 5
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:2T2pEQPUbd2qM20Z7GNFMY"
+  },
+  {
+    "collaborative": false,
+    "description": "Your weekly mixtape of fresh music. Enjoy new music and deep cuts picked for you. Updates every Monday.",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZEVXcJgyQ0z1cDXW"
+    },
+    "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcJgyQ0z1cDXW",
+    "id": "37i9dQZEVXcJgyQ0z1cDXW",
+    "images": [
+      {
+        "height": null,
+        "url": "https://newjams-images.scdn.co/image/ab676477000033ad/dt/v3/discover-weekly/cu3kpv8T2AEK-g-HTMUz2-PZWWb4vrfE_Ni2amOpk8NuOrRj1USH3AycBTHcE_Z5RL-bVcs2nOw4XWppeIv50Lq9awSHzDMsnQdBCtPuYio=/NDM6NzI6NjBUNzAtMTEtMw==",
+        "width": null
+      }
+    ],
+    "name": "Discover Weekly",
+    "owner": {
+      "display_name": "Spotify",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/spotify"
+      },
+      "href": "https://api.spotify.com/v1/users/spotify",
+      "id": "spotify",
+      "type": "user",
+      "uri": "spotify:user:spotify"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MCwwMDAwMDAwMGFmNjk2YzBiMTczNDk3MTcyMTUwZDRjMDdjODdjODll",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcJgyQ0z1cDXW/tracks",
+      "total": 30
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:37i9dQZEVXcJgyQ0z1cDXW"
+  },
+  {
+    "collaborative": false,
+    "description": "Updated each Friday with new released music! House, Techno, Dubstep, Hard Dance, Trance, Big Room &amp; much more",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/2LVh8rHGisSis48ojsWeNO"
+    },
+    "href": "https://api.spotify.com/v1/playlists/2LVh8rHGisSis48ojsWeNO",
+    "id": "2LVh8rHGisSis48ojsWeNO",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b27332d0b4a46d42d15dce4c830cab67616d0000b273448f702f4db72ce399e7790fab67616d0000b2735843cd560fec841f4acbad25ab67616d0000b273eaed7595d03a7bfd42579dd5",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b27332d0b4a46d42d15dce4c830cab67616d0000b273448f702f4db72ce399e7790fab67616d0000b2735843cd560fec841f4acbad25ab67616d0000b273eaed7595d03a7bfd42579dd5",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b27332d0b4a46d42d15dce4c830cab67616d0000b273448f702f4db72ce399e7790fab67616d0000b2735843cd560fec841f4acbad25ab67616d0000b273eaed7595d03a7bfd42579dd5",
+        "width": 60
+      }
+    ],
+    "name": "Edmtrain: New Music Friday",
+    "owner": {
+      "display_name": "edmtrain",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/vsugrnnxy22u96f4f4ffl8fwf"
+      },
+      "href": "https://api.spotify.com/v1/users/vsugrnnxy22u96f4f4ffl8fwf",
+      "id": "vsugrnnxy22u96f4f4ffl8fwf",
+      "type": "user",
+      "uri": "spotify:user:vsugrnnxy22u96f4f4ffl8fwf"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "ODA5Niw5NmI0YThjYjllNDY3MDNkNDE3ODA3OWZlNmU3ODFmOTg5ODkwZDhl",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/2LVh8rHGisSis48ojsWeNO/tracks",
+      "total": 268
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:2LVh8rHGisSis48ojsWeNO"
+  },
+  {
+    "collaborative": false,
+    "description": "#playlist",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/1Ls5UmQOMgKE5XfN55F73T"
+    },
+    "href": "https://api.spotify.com/v1/playlists/1Ls5UmQOMgKE5XfN55F73T",
+    "id": "1Ls5UmQOMgKE5XfN55F73T",
+    "images": [],
+    "name": "500 years",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MyxmZjE1OWEyNTMxNDRkN2U5Yjc4MmQ3YzE4YmRlMmMyNTRmYzVmZDhj",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/1Ls5UmQOMgKE5XfN55F73T/tracks",
+      "total": 0
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:1Ls5UmQOMgKE5XfN55F73T"
+  },
+  {
+    "collaborative": false,
+    "description": "#playlist",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/0KIRFcgm5f8CLQat3VG9Zg"
+    },
+    "href": "https://api.spotify.com/v1/playlists/0KIRFcgm5f8CLQat3VG9Zg",
+    "id": "0KIRFcgm5f8CLQat3VG9Zg",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273afba756e577a924c4c107c7b",
+        "width": 640
+      }
+    ],
+    "name": "ChaRizzma ",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "NCwyNjE2ZTcxYTUyYTE3OTk4NTFiMDNjYjU0N2ZlMzkwYTM1NDU5Yzgw",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/0KIRFcgm5f8CLQat3VG9Zg/tracks",
+      "total": 2
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:0KIRFcgm5f8CLQat3VG9Zg"
+  },
+  {
+    "collaborative": false,
+    "description": "#playlist",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/0dj2i24UfgZt3djnlQb16G"
+    },
+    "href": "https://api.spotify.com/v1/playlists/0dj2i24UfgZt3djnlQb16G",
+    "id": "0dj2i24UfgZt3djnlQb16G",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b27327965f579b357c7371aafec2ab67616d0000b2735e90ff76fd49a23f7333de76ab67616d0000b273873997a27febe78aa5276669ab67616d0000b2739f129c7bb705bf1fff34e068",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b27327965f579b357c7371aafec2ab67616d0000b2735e90ff76fd49a23f7333de76ab67616d0000b273873997a27febe78aa5276669ab67616d0000b2739f129c7bb705bf1fff34e068",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b27327965f579b357c7371aafec2ab67616d0000b2735e90ff76fd49a23f7333de76ab67616d0000b273873997a27febe78aa5276669ab67616d0000b2739f129c7bb705bf1fff34e068",
+        "width": 60
+      }
+    ],
+    "name": "Decadence, AZ",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MjAsNjFmMGM2MjIxZTU2NmMyM2ZlYzZjMDA0NzkzNjg1ZGYzYzIzMDgxNw==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/0dj2i24UfgZt3djnlQb16G/tracks",
+      "total": 18
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:0dj2i24UfgZt3djnlQb16G"
+  },
+  {
+    "collaborative": false,
+    "description": "#playlist",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/4lqEk9to9bilSOOLTdWG5a"
+    },
+    "href": "https://api.spotify.com/v1/playlists/4lqEk9to9bilSOOLTdWG5a",
+    "id": "4lqEk9to9bilSOOLTdWG5a",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2733632681259e482efdffdc1b1ab67616d0000b2735d8b40b3b5a61b3d8f5f8c54ab67616d0000b273f0f4e5ce44a7622140e32697ab67616d0000b273f701561268195fb25360dacc",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2733632681259e482efdffdc1b1ab67616d0000b2735d8b40b3b5a61b3d8f5f8c54ab67616d0000b273f0f4e5ce44a7622140e32697ab67616d0000b273f701561268195fb25360dacc",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2733632681259e482efdffdc1b1ab67616d0000b2735d8b40b3b5a61b3d8f5f8c54ab67616d0000b273f0f4e5ce44a7622140e32697ab67616d0000b273f701561268195fb25360dacc",
+        "width": 60
+      }
+    ],
+    "name": "Do Nothing - .03 1.01 365 37.7834",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MTYsNGY3ODI2MDRiMjVkZDIwMDE2NmI4Njg3MTcwNmU5NDYzY2I3YjBlMQ==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/4lqEk9to9bilSOOLTdWG5a/tracks",
+      "total": 10
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:4lqEk9to9bilSOOLTdWG5a"
+  },
+  {
+    "collaborative": false,
+    "description": "#playlist",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/1kN1Qgy1vHOZoilepxff0s"
+    },
+    "href": "https://api.spotify.com/v1/playlists/1kN1Qgy1vHOZoilepxff0s",
+    "id": "1kN1Qgy1vHOZoilepxff0s",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733632681259e482efdffdc1b1",
+        "width": 640
+      }
+    ],
+    "name": "Fall",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "NCxjZjc3MTliMzMxMjc3OWIwNGM2YWQ2M2E3YzJkOWYwZDQxNWVkNmE0",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/1kN1Qgy1vHOZoilepxff0s/tracks",
+      "total": 2
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:1kN1Qgy1vHOZoilepxff0s"
+  },
+  {
+    "collaborative": false,
+    "description": "#playlist",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/4qQxZrv7ucEXcOQNjkCNJB"
+    },
+    "href": "https://api.spotify.com/v1/playlists/4qQxZrv7ucEXcOQNjkCNJB",
+    "id": "4qQxZrv7ucEXcOQNjkCNJB",
+    "images": [
+      {
+        "height": null,
+        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbb39bf469697d09a07b500622",
+        "width": null
+      }
+    ],
+    "name": "Good Intentions",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MTIsMDU0NzIxMDNkNDVmNGM1MGQyNzgwMTIwMzg5YzhlMWRhMTE0ODU1NA==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/4qQxZrv7ucEXcOQNjkCNJB/tracks",
+      "total": 7
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:4qQxZrv7ucEXcOQNjkCNJB"
+  },
+  {
+    "collaborative": false,
+    "description": "#playlist",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/0nrbhrcJHRvbuf7ixwJsZM"
+    },
+    "href": "https://api.spotify.com/v1/playlists/0nrbhrcJHRvbuf7ixwJsZM",
+    "id": "0nrbhrcJHRvbuf7ixwJsZM",
+    "images": [
+      {
+        "height": null,
+        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb011d667adcd707a0e27e3ffb",
+        "width": null
+      }
+    ],
+    "name": "Imagine",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MzYsY2U2ZDdmZjk5NTBmYjkzZTFhMGI2MDlmYmVhMGIxYWM1N2NiNGU1NQ==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/0nrbhrcJHRvbuf7ixwJsZM/tracks",
+      "total": 61
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:0nrbhrcJHRvbuf7ixwJsZM"
+  },
+  {
+    "collaborative": false,
+    "description": "#playlist",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/2RmtIiYfD8O9NV80KlqGLj"
+    },
+    "href": "https://api.spotify.com/v1/playlists/2RmtIiYfD8O9NV80KlqGLj",
+    "id": "2RmtIiYfD8O9NV80KlqGLj",
+    "images": [
+      {
+        "height": null,
+        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb6cbd25c5fe0fa5c9d536d646",
+        "width": null
+      }
+    ],
+    "name": "Imagine Vegas",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "NCxhZGU2YWVjMTkyYWJhNTIyYmI3OWQxOWRmMzIwODQ0NmJhNGRlZTZm",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/2RmtIiYfD8O9NV80KlqGLj/tracks",
+      "total": 0
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:2RmtIiYfD8O9NV80KlqGLj"
+  },
+  {
+    "collaborative": false,
+    "description": "#playlist",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/5PtXTMq2bQH8Hf5TEtQn2v"
+    },
+    "href": "https://api.spotify.com/v1/playlists/5PtXTMq2bQH8Hf5TEtQn2v",
+    "id": "5PtXTMq2bQH8Hf5TEtQn2v",
+    "images": [
+      {
+        "height": null,
+        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb0e5e863908f465b5470f9a80",
+        "width": null
+      }
+    ],
+    "name": "Is Eyes",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "NSw3YjA5ODBhMmZmMTE2NjQ0ZDQ2NzEyZjU0OWZlNjIyNzczMzNiNGVh",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/5PtXTMq2bQH8Hf5TEtQn2v/tracks",
+      "total": 1
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:5PtXTMq2bQH8Hf5TEtQn2v"
+  },
+  {
+    "collaborative": false,
+    "description": "#playlist",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/3uJCH82U03RYOPgrjuZoN4"
+    },
+    "href": "https://api.spotify.com/v1/playlists/3uJCH82U03RYOPgrjuZoN4",
+    "id": "3uJCH82U03RYOPgrjuZoN4",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b27388b917c479388d0a47fef6e0ab67616d0000b273a13907cf58fb1bd99f90a543ab67616d0000b273b1ec30684e30c7614516a64aab67616d0000b273c575207c52f3a66e1cc7f7f1",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b27388b917c479388d0a47fef6e0ab67616d0000b273a13907cf58fb1bd99f90a543ab67616d0000b273b1ec30684e30c7614516a64aab67616d0000b273c575207c52f3a66e1cc7f7f1",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b27388b917c479388d0a47fef6e0ab67616d0000b273a13907cf58fb1bd99f90a543ab67616d0000b273b1ec30684e30c7614516a64aab67616d0000b273c575207c52f3a66e1cc7f7f1",
+        "width": 60
+      }
+    ],
+    "name": "It's Been a Little Heavy Lately",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "OCw2NTdlZWZjYTNjZmNiNThhMDMwNzdlNzkwOTczMzMwOGUzYTZlM2Iw",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/3uJCH82U03RYOPgrjuZoN4/tracks",
+      "total": 6
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:3uJCH82U03RYOPgrjuZoN4"
+  },
+  {
+    "collaborative": false,
+    "description": "#playlist",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/6VG3y3K9F1GoPWSlHlRkrg"
+    },
+    "href": "https://api.spotify.com/v1/playlists/6VG3y3K9F1GoPWSlHlRkrg",
+    "id": "6VG3y3K9F1GoPWSlHlRkrg",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b273b4e8c630019dc6b875f88c4cab67616d0000b273e557d4cd8a3e13e4e3967ed6ab67616d0000b273e603fcf30ee2eab1a10db5b5ab67616d0000b273ff70ce486998db351490ecf7",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b273b4e8c630019dc6b875f88c4cab67616d0000b273e557d4cd8a3e13e4e3967ed6ab67616d0000b273e603fcf30ee2eab1a10db5b5ab67616d0000b273ff70ce486998db351490ecf7",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b273b4e8c630019dc6b875f88c4cab67616d0000b273e557d4cd8a3e13e4e3967ed6ab67616d0000b273e603fcf30ee2eab1a10db5b5ab67616d0000b273ff70ce486998db351490ecf7",
+        "width": 60
+      }
+    ],
+    "name": "let it go",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "Nyw4NTUyNDExMTE3ZTRhMzZmZDQxODAyMzI1NzliYTg4YjczOWIwYTlm",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/6VG3y3K9F1GoPWSlHlRkrg/tracks",
+      "total": 5
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:6VG3y3K9F1GoPWSlHlRkrg"
+  },
+  {
+    "collaborative": false,
+    "description": "#playlist",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/6E1eh50vJI4eAwaNZiCED1"
+    },
+    "href": "https://api.spotify.com/v1/playlists/6E1eh50vJI4eAwaNZiCED1",
+    "id": "6E1eh50vJI4eAwaNZiCED1",
+    "images": [],
+    "name": "Mosaic Composition",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MixiM2UyZDZkZGUzM2JkOTZmNzdmYTAwMWUxZTk1ZDBhYWIzZTY2NTFi",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/6E1eh50vJI4eAwaNZiCED1/tracks",
+      "total": 0
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:6E1eh50vJI4eAwaNZiCED1"
+  },
+  {
+    "collaborative": false,
+    "description": "#playlist",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/2Uqr16zgR0EISYC4S87bgx"
+    },
+    "href": "https://api.spotify.com/v1/playlists/2Uqr16zgR0EISYC4S87bgx",
+    "id": "2Uqr16zgR0EISYC4S87bgx",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b27314c3b6b8736e5dafcf1cd911ab67616d0000b2739c8f3a551d9ec6d582f2a9a3ab67616d0000b273b1ec30684e30c7614516a64aab67616d0000b273d53f7c72eccea3c4223dc9ce",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b27314c3b6b8736e5dafcf1cd911ab67616d0000b2739c8f3a551d9ec6d582f2a9a3ab67616d0000b273b1ec30684e30c7614516a64aab67616d0000b273d53f7c72eccea3c4223dc9ce",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b27314c3b6b8736e5dafcf1cd911ab67616d0000b2739c8f3a551d9ec6d582f2a9a3ab67616d0000b273b1ec30684e30c7614516a64aab67616d0000b273d53f7c72eccea3c4223dc9ce",
+        "width": 60
+      }
+    ],
+    "name": "My playlist #109",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "NyxjNWFlNjUyYjZkMDczODkyMGE1ZTM5ZDIyYzY1ZjQ4NGE0MTQ0NWU4",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/2Uqr16zgR0EISYC4S87bgx/tracks",
+      "total": 5
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:2Uqr16zgR0EISYC4S87bgx"
+  },
+  {
+    "collaborative": false,
+    "description": "#playlist",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/4H8FIzx549o78aDC6AGI1r"
+    },
+    "href": "https://api.spotify.com/v1/playlists/4H8FIzx549o78aDC6AGI1r",
+    "id": "4H8FIzx549o78aDC6AGI1r",
+    "images": [
+      {
+        "height": null,
+        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb86dd0f62b5fc55a8eed87c9b",
+        "width": null
+      }
+    ],
+    "name": "My playlist #181",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MyxmMzA3ODgzYzIwNTNmMjhlOTY1MDcxZThlNmU0ZDAwZDdhNWVmM2Ji",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/4H8FIzx549o78aDC6AGI1r/tracks",
+      "total": 0
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:4H8FIzx549o78aDC6AGI1r"
+  },
+  {
+    "collaborative": false,
+    "description": "#playlist",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/2DhdzdJbs59mC16O37Xxms"
+    },
+    "href": "https://api.spotify.com/v1/playlists/2DhdzdJbs59mC16O37Xxms",
+    "id": "2DhdzdJbs59mC16O37Xxms",
+    "images": [
+      {
+        "height": null,
+        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbcf888fe259e5c960991b5c4f",
+        "width": null
+      }
+    ],
+    "name": "My playlist #205",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "NSw0OGYxYjE1NDkzNDU0MDI1Y2ViMTBmNThjODc3ZDI0MzIxZjRhOTFl",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/2DhdzdJbs59mC16O37Xxms/tracks",
+      "total": 1
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:2DhdzdJbs59mC16O37Xxms"
+  },
+  {
+    "collaborative": false,
+    "description": "#playlist",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/7nGfQXhRuXai2VTUr8bqDk"
+    },
+    "href": "https://api.spotify.com/v1/playlists/7nGfQXhRuXai2VTUr8bqDk",
+    "id": "7nGfQXhRuXai2VTUr8bqDk",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273243c730a35f5c6e0bfeb5de9",
+        "width": 640
+      }
+    ],
+    "name": "My Reason",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MyxjZGI3YWNmNzBhMGMyYjhkMmIxOGJmYTIyMjU3M2U0NmYwMjdhZDI1",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/7nGfQXhRuXai2VTUr8bqDk/tracks",
+      "total": 1
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:7nGfQXhRuXai2VTUr8bqDk"
+  },
+  {
+    "collaborative": false,
+    "description": "#playlist",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/2IFrHZPqyAYyh4nhwRIX1z"
+    },
+    "href": "https://api.spotify.com/v1/playlists/2IFrHZPqyAYyh4nhwRIX1z",
+    "id": "2IFrHZPqyAYyh4nhwRIX1z",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b27348f68198a6a994dd0bace3f6ab67616d0000b27376774d8a307da12a6430114fab67616d0000b27399760b1841fca5ae5b910117ab67616d0000b273ce3dd91825b84708408f7186",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b27348f68198a6a994dd0bace3f6ab67616d0000b27376774d8a307da12a6430114fab67616d0000b27399760b1841fca5ae5b910117ab67616d0000b273ce3dd91825b84708408f7186",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b27348f68198a6a994dd0bace3f6ab67616d0000b27376774d8a307da12a6430114fab67616d0000b27399760b1841fca5ae5b910117ab67616d0000b273ce3dd91825b84708408f7186",
+        "width": 60
+      }
+    ],
+    "name": "On My Own",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "OCw5ZmMyYmQ3ODdlYzg3NmZhMzEyYjJhODI2ZDcyNzkyNzgwNTk4NjVh",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/2IFrHZPqyAYyh4nhwRIX1z/tracks",
+      "total": 6
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:2IFrHZPqyAYyh4nhwRIX1z"
+  },
+  {
+    "collaborative": false,
+    "description": "#playlist",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/29qbXT6V8pdilwmfwmMKmu"
+    },
+    "href": "https://api.spotify.com/v1/playlists/29qbXT6V8pdilwmfwmMKmu",
+    "id": "29qbXT6V8pdilwmfwmMKmu",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2734fd0c8b7e483aa486bb77aecab67616d0000b273587c982977c492b2d0c03c59ab67616d0000b273bc8337368995366d48650871ab67616d0000b273d1702863a7de02ec23b70de6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2734fd0c8b7e483aa486bb77aecab67616d0000b273587c982977c492b2d0c03c59ab67616d0000b273bc8337368995366d48650871ab67616d0000b273d1702863a7de02ec23b70de6",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2734fd0c8b7e483aa486bb77aecab67616d0000b273587c982977c492b2d0c03c59ab67616d0000b273bc8337368995366d48650871ab67616d0000b273d1702863a7de02ec23b70de6",
+        "width": 60
+      }
+    ],
+    "name": "Open Your Mind",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MjIsNjI1NWNkNjRjOWJiZDg1ZWI3ZGM0MGExMjE0ZmM5OTFlNWE3ZmQyMw==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/29qbXT6V8pdilwmfwmMKmu/tracks",
+      "total": 15
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:29qbXT6V8pdilwmfwmMKmu"
+  },
+  {
+    "collaborative": false,
+    "description": "#playlist",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/3SO3UYeC7ILWwlRUrJzLiY"
+    },
+    "href": "https://api.spotify.com/v1/playlists/3SO3UYeC7ILWwlRUrJzLiY",
+    "id": "3SO3UYeC7ILWwlRUrJzLiY",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b27310e8d6268527e7c76fa9f8c7ab67616d0000b273789c5d973cfb96774329c501ab67616d0000b2737925eefd51f04e467801adc3ab67616d0000b273a3a121d346e7b9afc6f357f9",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b27310e8d6268527e7c76fa9f8c7ab67616d0000b273789c5d973cfb96774329c501ab67616d0000b2737925eefd51f04e467801adc3ab67616d0000b273a3a121d346e7b9afc6f357f9",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b27310e8d6268527e7c76fa9f8c7ab67616d0000b273789c5d973cfb96774329c501ab67616d0000b2737925eefd51f04e467801adc3ab67616d0000b273a3a121d346e7b9afc6f357f9",
+        "width": 60
+      }
+    ],
+    "name": "Play/Sing",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MzAsODMzYzQ5ZGJmNmRkMDE3MzIxZjBjYTA3MjUwOTRiMzdmMjc4ZGVhNA==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/3SO3UYeC7ILWwlRUrJzLiY/tracks",
+      "total": 74
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:3SO3UYeC7ILWwlRUrJzLiY"
+  },
+  {
+    "collaborative": false,
+    "description": "#playlist",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/38sLgcd4GoI3c4l3CHUgsg"
+    },
+    "href": "https://api.spotify.com/v1/playlists/38sLgcd4GoI3c4l3CHUgsg",
+    "id": "38sLgcd4GoI3c4l3CHUgsg",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27399acc66a30c91a20ee501910",
+        "width": 640
+      }
+    ],
+    "name": "Sea Salt Spray",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "NSwzMWUyMjdiODE5MzU0NGYzM2EyYzFmMGU0NmI1YTZmNzkyN2IyYjRi",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/38sLgcd4GoI3c4l3CHUgsg/tracks",
+      "total": 2
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:38sLgcd4GoI3c4l3CHUgsg"
+  },
+  {
+    "collaborative": false,
+    "description": "#playlist",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/7ubE64tBTSoc2UIcGpiLfj"
+    },
+    "href": "https://api.spotify.com/v1/playlists/7ubE64tBTSoc2UIcGpiLfj",
+    "id": "7ubE64tBTSoc2UIcGpiLfj",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b273781904f69fd550c19e6e3b55ab67616d0000b273a790c56cff6e3463bf9935cbab67616d0000b273e0b60c608586d88252b8fbc0ab67616d0000b273eaac2a7955f5b8967991cacb",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b273781904f69fd550c19e6e3b55ab67616d0000b273a790c56cff6e3463bf9935cbab67616d0000b273e0b60c608586d88252b8fbc0ab67616d0000b273eaac2a7955f5b8967991cacb",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b273781904f69fd550c19e6e3b55ab67616d0000b273a790c56cff6e3463bf9935cbab67616d0000b273e0b60c608586d88252b8fbc0ab67616d0000b273eaac2a7955f5b8967991cacb",
+        "width": 60
+      }
+    ],
+    "name": "Spatial Audio",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "NCxmMWI3MzgyYWM1M2M3MWYxMTBjOTAwNmNlYmIyYTA5ZjMxMDEzY2Uz",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/7ubE64tBTSoc2UIcGpiLfj/tracks",
+      "total": 104
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:7ubE64tBTSoc2UIcGpiLfj"
+  },
+  {
+    "collaborative": false,
+    "description": "#playlist",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/22uQRev3oYgtVYuoDgKBEZ"
+    },
+    "href": "https://api.spotify.com/v1/playlists/22uQRev3oYgtVYuoDgKBEZ",
+    "id": "22uQRev3oYgtVYuoDgKBEZ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273211b2eda1597f0cb3a9851dc",
+        "width": 640
+      }
+    ],
+    "name": "The Sonic Wars",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "NCwwMGVlOTViMTQ0ZDk5MDU0YTI0ODE2M2Q0YzUzOTdjMzYyODNmYTY0",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/22uQRev3oYgtVYuoDgKBEZ/tracks",
+      "total": 2
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:22uQRev3oYgtVYuoDgKBEZ"
+  },
+  {
+    "collaborative": false,
+    "description": "#playlist",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/3dH7Os9YOdi9tlSBaDVI1N"
+    },
+    "href": "https://api.spotify.com/v1/playlists/3dH7Os9YOdi9tlSBaDVI1N",
+    "id": "3dH7Os9YOdi9tlSBaDVI1N",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b27324e02fc97dd7d653c3929961ab67616d0000b2738ff16aeca5722fcced965cb8ab67616d0000b273eb338002c9bc54b909a4fbf4ab67616d0000b273f701561268195fb25360dacc",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b27324e02fc97dd7d653c3929961ab67616d0000b2738ff16aeca5722fcced965cb8ab67616d0000b273eb338002c9bc54b909a4fbf4ab67616d0000b273f701561268195fb25360dacc",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b27324e02fc97dd7d653c3929961ab67616d0000b2738ff16aeca5722fcced965cb8ab67616d0000b273eb338002c9bc54b909a4fbf4ab67616d0000b273f701561268195fb25360dacc",
+        "width": 60
+      }
+    ],
+    "name": "Waited my whole life for this moment",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "NixlMTc3NDVmYWIxMTlkYjhkZjcyMjUxYzNlMjk3OTcxZDE4YjIxNWQ5",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/3dH7Os9YOdi9tlSBaDVI1N/tracks",
+      "total": 4
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:3dH7Os9YOdi9tlSBaDVI1N"
+  },
+  {
+    "collaborative": false,
+    "description": "#playlist",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/7cVAS0gSlG8b5ZFMCQelYU"
+    },
+    "href": "https://api.spotify.com/v1/playlists/7cVAS0gSlG8b5ZFMCQelYU",
+    "id": "7cVAS0gSlG8b5ZFMCQelYU",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b27315f67dbf99f6dc4c71159ef2ab67616d0000b2732e8ad02691480a0a7e78a53fab67616d0000b27356e3f72affc066184021c667ab67616d0000b273750d4a1b362296d1b815a223",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b27315f67dbf99f6dc4c71159ef2ab67616d0000b2732e8ad02691480a0a7e78a53fab67616d0000b27356e3f72affc066184021c667ab67616d0000b273750d4a1b362296d1b815a223",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b27315f67dbf99f6dc4c71159ef2ab67616d0000b2732e8ad02691480a0a7e78a53fab67616d0000b27356e3f72affc066184021c667ab67616d0000b273750d4a1b362296d1b815a223",
+        "width": 60
+      }
+    ],
+    "name": "Waiting",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "NixjN2ViMTAzNGU3NWI2YjhjMDI5ZDc1MTgxYWI2ODc3NzRmOTZjYzU1",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/7cVAS0gSlG8b5ZFMCQelYU/tracks",
+      "total": 4
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:7cVAS0gSlG8b5ZFMCQelYU"
+  },
+  {
+    "collaborative": false,
+    "description": "#playlist",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/4QOcHGDKNmPKKh9gbDByif"
+    },
+    "href": "https://api.spotify.com/v1/playlists/4QOcHGDKNmPKKh9gbDByif",
+    "id": "4QOcHGDKNmPKKh9gbDByif",
+    "images": [],
+    "name": "What are you waiting for?",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MixmMjkxNzdiNGMwODhmZTVmMWNkZDEwNDIxMzljZjdlMTFjOTEwODBj",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/4QOcHGDKNmPKKh9gbDByif/tracks",
+      "total": 0
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:4QOcHGDKNmPKKh9gbDByif"
+  },
+  {
+    "collaborative": false,
+    "description": "#playlist",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/1gU4GYIOBzDCGh9ZYQDhcs"
+    },
+    "href": "https://api.spotify.com/v1/playlists/1gU4GYIOBzDCGh9ZYQDhcs",
+    "id": "1gU4GYIOBzDCGh9ZYQDhcs",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b27312aeddbc1006e22b3b5842feab67616d0000b2736f78fb3b7fec5a68a23bbaa9ab67616d0000b2739cf1b6a40fcab35e7afaf6c4ab67616d0000b273b1509e7e6067890add82b2ca",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b27312aeddbc1006e22b3b5842feab67616d0000b2736f78fb3b7fec5a68a23bbaa9ab67616d0000b2739cf1b6a40fcab35e7afaf6c4ab67616d0000b273b1509e7e6067890add82b2ca",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b27312aeddbc1006e22b3b5842feab67616d0000b2736f78fb3b7fec5a68a23bbaa9ab67616d0000b2739cf1b6a40fcab35e7afaf6c4ab67616d0000b273b1509e7e6067890add82b2ca",
+        "width": 60
+      }
+    ],
+    "name": "What do you want",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MTEsMGE0NDgyNDM0NTJiZmRkZThlNmEwNjBkMzMwZDNlMTFmNTY4ZWQxZg==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/1gU4GYIOBzDCGh9ZYQDhcs/tracks",
+      "total": 7
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:1gU4GYIOBzDCGh9ZYQDhcs"
+  },
+  {
+    "collaborative": false,
+    "description": "#playlist",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/0MDPrwXQvx9y9OtDMWXR3B"
+    },
+    "href": "https://api.spotify.com/v1/playlists/0MDPrwXQvx9y9OtDMWXR3B",
+    "id": "0MDPrwXQvx9y9OtDMWXR3B",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2732d33265577e1292031c2b89bab67616d0000b2736e7bbf1105788d0bb9fc8a47ab67616d0000b273c3009587dc1e7667abaeb410ab67616d0000b273d00f64cae126e07fb95037eb",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2732d33265577e1292031c2b89bab67616d0000b2736e7bbf1105788d0bb9fc8a47ab67616d0000b273c3009587dc1e7667abaeb410ab67616d0000b273d00f64cae126e07fb95037eb",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2732d33265577e1292031c2b89bab67616d0000b2736e7bbf1105788d0bb9fc8a47ab67616d0000b273c3009587dc1e7667abaeb410ab67616d0000b273d00f64cae126e07fb95037eb",
+        "width": 60
+      }
+    ],
+    "name": "What you want; All you think about",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MTQsMTc3OGI2ZGNhNzIwOGQyOTk1ZjljMGQxZTczZjEwNDJlYzBiY2FmNw==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/0MDPrwXQvx9y9OtDMWXR3B/tracks",
+      "total": 11
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:0MDPrwXQvx9y9OtDMWXR3B"
+  },
+  {
+    "collaborative": false,
+    "description": "#playlist",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/52Xb4RyyiGQCaTeEQog0UP"
+    },
+    "href": "https://api.spotify.com/v1/playlists/52Xb4RyyiGQCaTeEQog0UP",
+    "id": "52Xb4RyyiGQCaTeEQog0UP",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b27300dc54892c783f1825e7c60cab67616d0000b27399f2c3ea4400725031a5d619ab67616d0000b273b66c23534dd78ff7d3da83b8ab67616d0000b273e8ac8f5ea7877d823e5df3ea",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b27300dc54892c783f1825e7c60cab67616d0000b27399f2c3ea4400725031a5d619ab67616d0000b273b66c23534dd78ff7d3da83b8ab67616d0000b273e8ac8f5ea7877d823e5df3ea",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b27300dc54892c783f1825e7c60cab67616d0000b27399f2c3ea4400725031a5d619ab67616d0000b273b66c23534dd78ff7d3da83b8ab67616d0000b273e8ac8f5ea7877d823e5df3ea",
+        "width": 60
+      }
+    ],
+    "name": "Wicked Game",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "NzAsODVkZTNhNmEzYjAyM2E1ODVlMGUyYzgzYTk0ZmYxYzgzZjBmZWNlNw==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/52Xb4RyyiGQCaTeEQog0UP/tracks",
+      "total": 29
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:52Xb4RyyiGQCaTeEQog0UP"
+  },
+  {
+    "collaborative": false,
+    "description": "#playlist",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/7LxqwSVyqtLy7SvAvud6CH"
+    },
+    "href": "https://api.spotify.com/v1/playlists/7LxqwSVyqtLy7SvAvud6CH",
+    "id": "7LxqwSVyqtLy7SvAvud6CH",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2735d8b40b3b5a61b3d8f5f8c54",
+        "width": 640
+      }
+    ],
+    "name": "Yscheych ",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "NyxiZmI0OWY3NGIxNTA5Zjg4M2U1NjRiZWMwMWNjZjJjYWM5M2U5MTJj",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/7LxqwSVyqtLy7SvAvud6CH/tracks",
+      "total": 3
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:7LxqwSVyqtLy7SvAvud6CH"
+  },
+  {
+    "collaborative": false,
+    "description": "#genre #edm #dj #electronica",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/3qkheLsrpBPcTcOT52SPtj"
+    },
+    "href": "https://api.spotify.com/v1/playlists/3qkheLsrpBPcTcOT52SPtj",
+    "id": "3qkheLsrpBPcTcOT52SPtj",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b273033e59a02916d35c93177cfeab67616d0000b27322a30fc738d0f4f4a20cfad6ab67616d0000b27371d5c074e3e0f2a33930f0f6ab67616d0000b2738c83bbd25ab7064d72ae092a",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b273033e59a02916d35c93177cfeab67616d0000b27322a30fc738d0f4f4a20cfad6ab67616d0000b27371d5c074e3e0f2a33930f0f6ab67616d0000b2738c83bbd25ab7064d72ae092a",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b273033e59a02916d35c93177cfeab67616d0000b27322a30fc738d0f4f4a20cfad6ab67616d0000b27371d5c074e3e0f2a33930f0f6ab67616d0000b2738c83bbd25ab7064d72ae092a",
+        "width": 60
+      }
+    ],
+    "name": "Dance/Electronic",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MjEsYjZjMzEyYTUwZmEzZjZmYTAzYzk2ODZhMjMyN2MxNTkwN2YwYTk4Zg==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/3qkheLsrpBPcTcOT52SPtj/tracks",
+      "total": 23
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:3qkheLsrpBPcTcOT52SPtj"
+  },
+  {
+    "collaborative": false,
+    "description": "<a href=spotify:playlist:37i9dQZF1EIXAvIwFp75le>Forester</a>, <a href=spotify:playlist:37i9dQZF1EIWjtAobkkxfw>Kiesza</a>, <a href=spotify:playlist:37i9dQZF1EIYrmAu427uGn>Kito</a> and more",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1EQp9BVPsNVof1"
+    },
+    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EQp9BVPsNVof1",
+    "id": "37i9dQZF1EQp9BVPsNVof1",
+    "images": [
+      {
+        "height": null,
+        "url": "https://seed-mix-image.spotifycdn.com/v6/img/dance_electronic/3d13oWvwmjcodRr3NzdArc/en/large",
+        "width": null
+      }
+    ],
+    "name": "Dance/Electronic Mix",
+    "owner": {
+      "display_name": "Spotify",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/spotify"
+      },
+      "href": "https://api.spotify.com/v1/users/spotify",
+      "id": "spotify",
+      "type": "user",
+      "uri": "spotify:user:spotify"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MTY5ODU1OTIwMCwwMDAwMDAwMDE0MDdlOWY4NDEzNmU0YmI4YzFmYzZmMzE1MDk5Mjkx",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EQp9BVPsNVof1/tracks",
+      "total": 50
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:37i9dQZF1EQp9BVPsNVof1"
+  },
+  {
+    "collaborative": false,
+    "description": "#genre",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/7jQSPjs2XJYpmoLvwZake5"
+    },
+    "href": "https://api.spotify.com/v1/playlists/7jQSPjs2XJYpmoLvwZake5",
+    "id": "7jQSPjs2XJYpmoLvwZake5",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b273511a3ac59de4bac1d342b1f2ab67616d0000b2739f0f86b54e7ca8870fac0edeab67616d0000b273a69bb51a9cae748e1a9cae6dab67616d0000b273c38b54bae0d74b2d0e923444",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b273511a3ac59de4bac1d342b1f2ab67616d0000b2739f0f86b54e7ca8870fac0edeab67616d0000b273a69bb51a9cae748e1a9cae6dab67616d0000b273c38b54bae0d74b2d0e923444",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b273511a3ac59de4bac1d342b1f2ab67616d0000b2739f0f86b54e7ca8870fac0edeab67616d0000b273a69bb51a9cae748e1a9cae6dab67616d0000b273c38b54bae0d74b2d0e923444",
+        "width": 60
+      }
+    ],
+    "name": "Focus",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "OCw4ZTBhMThiZTg4MmM1NmZlOGNhODg3ZDVhNjkwZDMzYjZmNDRiMGVl",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/7jQSPjs2XJYpmoLvwZake5/tracks",
+      "total": 6
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:7jQSPjs2XJYpmoLvwZake5"
+  },
+  {
+    "collaborative": false,
+    "description": "#genre #folk #acoustic #singer-songwriter #americana #bluegrass #indie-folk #global-folk",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/5r7NUlpKFS4bx9H1Jen7XM"
+    },
+    "href": "https://api.spotify.com/v1/playlists/5r7NUlpKFS4bx9H1Jen7XM",
+    "id": "5r7NUlpKFS4bx9H1Jen7XM",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b27332a8498ea892ccd4fcf3f6cfab67616d0000b273cac54fe481facfdaf078c323ab67616d0000b273d37c4b24da9362e221a5aa62ab67616d0000b273d562d243fa7d17a3707de5c8",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b27332a8498ea892ccd4fcf3f6cfab67616d0000b273cac54fe481facfdaf078c323ab67616d0000b273d37c4b24da9362e221a5aa62ab67616d0000b273d562d243fa7d17a3707de5c8",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b27332a8498ea892ccd4fcf3f6cfab67616d0000b273cac54fe481facfdaf078c323ab67616d0000b273d37c4b24da9362e221a5aa62ab67616d0000b273d562d243fa7d17a3707de5c8",
+        "width": 60
+      }
+    ],
+    "name": "Folk & Acoustic",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MTQsMDFhNWZkYTlmMTk3NzQwMGVmNTlkMjU5NDZhN2MxMmFhNzBiMTk1MQ==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/5r7NUlpKFS4bx9H1Jen7XM/tracks",
+      "total": 9
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:5r7NUlpKFS4bx9H1Jen7XM"
+  },
+  {
+    "collaborative": false,
+    "description": "<a href=spotify:playlist:37i9dQZF1EIUNGBGNA67PE>The Lumineers</a>, <a href=spotify:playlist:37i9dQZF1EIUqxJLAsBf4h>Of Monsters and Men</a>, <a href=spotify:playlist:37i9dQZF1EIWcpYfb1TxlY>Jasmine Thompson</a> and more",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1EQp62d3Dl7ECY"
+    },
+    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EQp62d3Dl7ECY",
+    "id": "37i9dQZF1EQp62d3Dl7ECY",
+    "images": [
+      {
+        "height": null,
+        "url": "https://seed-mix-image.spotifycdn.com/v6/img/folk_acoustic/16oZKvXb6WkQlVAjwo2Wbg/en/large",
+        "width": null
+      }
+    ],
+    "name": "Folk & Acoustic Mix",
+    "owner": {
+      "display_name": "Spotify",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/spotify"
+      },
+      "href": "https://api.spotify.com/v1/users/spotify",
+      "id": "spotify",
+      "type": "user",
+      "uri": "spotify:user:spotify"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MTY5ODU1OTIwMCwwMDAwMDAwMDY5ZmY1NzIzNTE5MWY5MWYxMTczOTYyZWQzMzMzM2Zl",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EQp62d3Dl7ECY/tracks",
+      "total": 50
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:37i9dQZF1EQp62d3Dl7ECY"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/5nkVzU1B9xCM7Hq33S0gz3"
+    },
+    "href": "https://api.spotify.com/v1/playlists/5nkVzU1B9xCM7Hq33S0gz3",
+    "id": "5nkVzU1B9xCM7Hq33S0gz3",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27361d4af681a8ac1d3b2da3544",
+        "width": 640
+      }
+    ],
+    "name": "Indie",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "NCxhYTI3YzA3M2E1Yzg4ZmE3YzM5Yzc4YzliZDUwYjhkMTAzNTI0NjNk",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/5nkVzU1B9xCM7Hq33S0gz3/tracks",
+      "total": 3
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:5nkVzU1B9xCM7Hq33S0gz3"
+  },
+  {
+    "collaborative": false,
+    "description": "<a href=spotify:playlist:37i9dQZF1EIXXpN611gtIH>Bad Suns</a>, <a href=spotify:playlist:37i9dQZF1EIZszPNZ8vVmL>Bombay Bicycle Club</a>, <a href=spotify:playlist:37i9dQZF1EIWpFqDjKaDUt>Mt. Joy</a> and more",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1EQqkOPvHGajmW"
+    },
+    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EQqkOPvHGajmW",
+    "id": "37i9dQZF1EQqkOPvHGajmW",
+    "images": [
+      {
+        "height": null,
+        "url": "https://seed-mix-image.spotifycdn.com/v6/img/indie/0YhUSm86okLWldQVwJkLlP/en/large",
+        "width": null
+      }
+    ],
+    "name": "Indie Mix",
+    "owner": {
+      "display_name": "Spotify",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/spotify"
+      },
+      "href": "https://api.spotify.com/v1/users/spotify",
+      "id": "spotify",
+      "type": "user",
+      "uri": "spotify:user:spotify"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MTY5ODU1OTIwMCwwMDAwMDAwMDRkNTFlOGMxMmVhODRkMmJjMDNjYWIxYWQyYmUzM2Q4",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EQqkOPvHGajmW/tracks",
+      "total": 50
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:37i9dQZF1EQqkOPvHGajmW"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/4C2WiFYi7KYVoT76ZZo5CI"
+    },
+    "href": "https://api.spotify.com/v1/playlists/4C2WiFYi7KYVoT76ZZo5CI",
+    "id": "4C2WiFYi7KYVoT76ZZo5CI",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b273337e61769e1e854bb51d212eab67616d0000b273afa56990ce4f1ca48855bafaab67616d0000b273cfdf370914737f375b765f55ab67616d0000b273d7b5784333dee221f45d75b6",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b273337e61769e1e854bb51d212eab67616d0000b273afa56990ce4f1ca48855bafaab67616d0000b273cfdf370914737f375b765f55ab67616d0000b273d7b5784333dee221f45d75b6",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b273337e61769e1e854bb51d212eab67616d0000b273afa56990ce4f1ca48855bafaab67616d0000b273cfdf370914737f375b765f55ab67616d0000b273d7b5784333dee221f45d75b6",
+        "width": 60
+      }
+    ],
+    "name": "Hip Hop",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "OCw1NDQzYTRkYzU1YzM0NjBjNjU1OTZhYmQ5ODU1OWZmYmFhNWE3YjFh",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/4C2WiFYi7KYVoT76ZZo5CI/tracks",
+      "total": 7
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:4C2WiFYi7KYVoT76ZZo5CI"
+  },
+  {
+    "collaborative": false,
+    "description": "<a href=spotify:playlist:37i9dQZF1EIZobirLlpmBa>Mac Miller</a>, <a href=spotify:playlist:37i9dQZF1EIWR2Z7ggXEKn>Drake</a>, <a href=spotify:playlist:37i9dQZF1EIXwkdkoDV3G5>J. Cole</a> and more",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1EQnqst5TRi17F"
+    },
+    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EQnqst5TRi17F",
+    "id": "37i9dQZF1EQnqst5TRi17F",
+    "images": [
+      {
+        "height": null,
+        "url": "https://seed-mix-image.spotifycdn.com/v6/img/hip_hop/4LLpKhyESsyAXpc4laK94U/en/large",
+        "width": null
+      }
+    ],
+    "name": "Hip Hop Mix",
+    "owner": {
+      "display_name": "Spotify",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/spotify"
+      },
+      "href": "https://api.spotify.com/v1/users/spotify",
+      "id": "spotify",
+      "type": "user",
+      "uri": "spotify:user:spotify"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MTY5ODU1OTIwMCwwMDAwMDAwMDAwODdhZmQwNzc4OGIyOTk2YTc2MjM4N2E2YzY3YTI1",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EQnqst5TRi17F/tracks",
+      "total": 50
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:37i9dQZF1EQnqst5TRi17F"
+  },
+  {
+    "collaborative": false,
+    "description": "#genre",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/4D6OA9moNtvFLvSvo0Fs4X"
+    },
+    "href": "https://api.spotify.com/v1/playlists/4D6OA9moNtvFLvSvo0Fs4X",
+    "id": "4D6OA9moNtvFLvSvo0Fs4X",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2730c7f875559f353f7e670f2cdab67616d0000b27358959eda948f3c86bc9c74ebab67616d0000b27393e80a0a2aba6e4653608aecab67616d0000b273a1e2d49347f40f906afeab68",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2730c7f875559f353f7e670f2cdab67616d0000b27358959eda948f3c86bc9c74ebab67616d0000b27393e80a0a2aba6e4653608aecab67616d0000b273a1e2d49347f40f906afeab68",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2730c7f875559f353f7e670f2cdab67616d0000b27358959eda948f3c86bc9c74ebab67616d0000b27393e80a0a2aba6e4653608aecab67616d0000b273a1e2d49347f40f906afeab68",
+        "width": 60
+      }
+    ],
+    "name": "House",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "MTEsNDhhN2ZkNzQ0MzIwMWUxZDU3NjI0MjBiNjU4MTMwNjJkNjJlYTA0Zg==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/4D6OA9moNtvFLvSvo0Fs4X/tracks",
+      "total": 11
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:4D6OA9moNtvFLvSvo0Fs4X"
+  },
+  {
+    "collaborative": false,
+    "description": "<a href=spotify:playlist:37i9dQZF1EIWdh6S0QlIXp>Gorgon City</a>, <a href=spotify:playlist:37i9dQZF1EIXhnwWhJsb3V>Autograf</a>, <a href=spotify:playlist:37i9dQZF1EIWejNJRK34H5>LP Giobbi</a> and more",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1EQpoj8u9Hn81e"
+    },
+    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EQpoj8u9Hn81e",
+    "id": "37i9dQZF1EQpoj8u9Hn81e",
+    "images": [
+      {
+        "height": null,
+        "url": "https://seed-mix-image.spotifycdn.com/v6/img/house/4VNQWV2y1E97Eqo2D5UTjx/en/large",
+        "width": null
+      }
+    ],
+    "name": "House Mix",
+    "owner": {
+      "display_name": "Spotify",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/spotify"
+      },
+      "href": "https://api.spotify.com/v1/users/spotify",
+      "id": "spotify",
+      "type": "user",
+      "uri": "spotify:user:spotify"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MTY5ODU1OTIwMCwwMDAwMDAwMDg5NWVjZTgwYzAwNjFjM2MwMGU2NjUwYjAyYzBiMzUy",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EQpoj8u9Hn81e/tracks",
+      "total": 50
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:37i9dQZF1EQpoj8u9Hn81e"
+  },
+  {
+    "collaborative": false,
+    "description": "#genre",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/01vWro4JsgEsLtj4Vnr3Ud"
+    },
+    "href": "https://api.spotify.com/v1/playlists/01vWro4JsgEsLtj4Vnr3Ud",
+    "id": "01vWro4JsgEsLtj4Vnr3Ud",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27354b6c54e83c4154c974c1059",
+        "width": 640
+      }
+    ],
+    "name": "Latin",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "NSxiYjM2ZGJhNTVhOWYwMmE3YWE3OTA1NjA1MjljYjYzYTAyY2VkZTgy",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/01vWro4JsgEsLtj4Vnr3Ud/tracks",
+      "total": 2
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:01vWro4JsgEsLtj4Vnr3Ud"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/09Z9YrCKRy4QgXKc8PK2mM"
+    },
+    "href": "https://api.spotify.com/v1/playlists/09Z9YrCKRy4QgXKc8PK2mM",
+    "id": "09Z9YrCKRy4QgXKc8PK2mM",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e24cbbd5cef05ca77ec67df6",
+        "width": 640
+      }
+    ],
+    "name": "Pop",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": true,
+    "snapshot_id": "NSxjODJiODBhZDZhNDlhNzIzOTg1NzdiOTNhYWI4N2IwZDRhNDE1NTg3",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/09Z9YrCKRy4QgXKc8PK2mM/tracks",
+      "total": 3
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:09Z9YrCKRy4QgXKc8PK2mM"
+  },
+  {
+    "collaborative": false,
+    "description": "<a href=spotify:playlist:37i9dQZF1EIV8sIrS7FD41>ELIO</a>, <a href=spotify:playlist:37i9dQZF1EIV1oCGxzhRed>Taylor Swift</a>, <a href=spotify:playlist:37i9dQZF1EIZM4o31R0NGi>Dua Lipa</a> and more",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/37i9dQZF1EQncLwOalG3K7"
+    },
+    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EQncLwOalG3K7",
+    "id": "37i9dQZF1EQncLwOalG3K7",
+    "images": [
+      {
+        "height": null,
+        "url": "https://seed-mix-image.spotifycdn.com/v6/img/pop/6xgvgzXNv3ymcITXTrxRaA/en/large",
+        "width": null
+      }
+    ],
+    "name": "Pop Mix",
+    "owner": {
+      "display_name": "Spotify",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/spotify"
+      },
+      "href": "https://api.spotify.com/v1/users/spotify",
+      "id": "spotify",
+      "type": "user",
+      "uri": "spotify:user:spotify"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MTY5ODU1OTIwMCwwMDAwMDAwMGE1MmFmNjZlYzQ2YmU3ZGY2YjRlMzlkN2YyZmQ3YWFj",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EQncLwOalG3K7/tracks",
+      "total": 50
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:37i9dQZF1EQncLwOalG3K7"
+  },
+  {
+    "collaborative": false,
+    "description": "#genre",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/5WKh1bO5bkdT2Ni6vK6SVt"
+    },
+    "href": "https://api.spotify.com/v1/playlists/5WKh1bO5bkdT2Ni6vK6SVt",
+    "id": "5WKh1bO5bkdT2Ni6vK6SVt",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b273214ca17d06efcb07c30fa918ab67616d0000b2732d60677a02438991cc6b25eaab67616d0000b273c761387d83c7c615da7008a8ab67616d0000b273ec87c56b97baf18330b4fcc9",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b273214ca17d06efcb07c30fa918ab67616d0000b2732d60677a02438991cc6b25eaab67616d0000b273c761387d83c7c615da7008a8ab67616d0000b273ec87c56b97baf18330b4fcc9",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b273214ca17d06efcb07c30fa918ab67616d0000b2732d60677a02438991cc6b25eaab67616d0000b273c761387d83c7c615da7008a8ab67616d0000b273ec87c56b97baf18330b4fcc9",
+        "width": 60
+      }
+    ],
+    "name": "Sleep",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MTIsOTI1OGI4NGNlNWRkNDFiODY2NTI0MmYyZGVjNzJmZTI0ZWI2ODAwOA==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/5WKh1bO5bkdT2Ni6vK6SVt/tracks",
+      "total": 10
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:5WKh1bO5bkdT2Ni6vK6SVt"
+  },
+  {
+    "collaborative": false,
+    "description": "#playlist",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/3Ly83XTzrU73z9CBkgU5sQ"
+    },
+    "href": "https://api.spotify.com/v1/playlists/3Ly83XTzrU73z9CBkgU5sQ",
+    "id": "3Ly83XTzrU73z9CBkgU5sQ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b273001da1cf1c6860392a1380afab67616d0000b273988a86977368aa2a7ad5d5e4ab67616d0000b273bf0f831da8c43213afa108b2ab67616d0000b273bf5cce5a0e1ed03a626bdd74",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b273001da1cf1c6860392a1380afab67616d0000b273988a86977368aa2a7ad5d5e4ab67616d0000b273bf0f831da8c43213afa108b2ab67616d0000b273bf5cce5a0e1ed03a626bdd74",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b273001da1cf1c6860392a1380afab67616d0000b273988a86977368aa2a7ad5d5e4ab67616d0000b273bf0f831da8c43213afa108b2ab67616d0000b273bf5cce5a0e1ed03a626bdd74",
+        "width": 60
+      }
+    ],
+    "name": "ti\u1ebfng Vi\u1ec7t",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "Nyw2YmU5OTYxODMzMjY2Y2NkNDU0YTFmNTA4MTA1YjljYmY5ODliZjc0",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/3Ly83XTzrU73z9CBkgU5sQ/tracks",
+      "total": 4
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:3Ly83XTzrU73z9CBkgU5sQ"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/5SZw3frzbdlVfD1MyetvID"
+    },
+    "href": "https://api.spotify.com/v1/playlists/5SZw3frzbdlVfD1MyetvID",
+    "id": "5SZw3frzbdlVfD1MyetvID",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2733632681259e482efdffdc1b1",
+        "width": 640
+      }
+    ],
+    "name": "My playlist #47",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MiwwZGFmYzkyMzE5N2I2MzcwYzZlYzMyMWM0ZWU4YmI2NzZmOTE0ZTI4",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/5SZw3frzbdlVfD1MyetvID/tracks",
+      "total": 1
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:5SZw3frzbdlVfD1MyetvID"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/6PcspozvKFMTkM87EDPota"
+    },
+    "href": "https://api.spotify.com/v1/playlists/6PcspozvKFMTkM87EDPota",
+    "id": "6PcspozvKFMTkM87EDPota",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273b0e3709359addb40c9464aaa",
+        "width": 640
+      }
+    ],
+    "name": "My playlist #48",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "Myw3ZTFiNDY4ZmMyODUzNjkzZTU2MGE3YzI2OTRkMDc5NWViMTBjOTBl",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/6PcspozvKFMTkM87EDPota/tracks",
+      "total": 2
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:6PcspozvKFMTkM87EDPota"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/6bHf8FXKDg0hmz0AWjTgLg"
+    },
+    "href": "https://api.spotify.com/v1/playlists/6bHf8FXKDg0hmz0AWjTgLg",
+    "id": "6bHf8FXKDg0hmz0AWjTgLg",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b273008229fe01b451d074a9aa70ab67616d0000b27311b32bddec78cb96bcd8154bab67616d0000b273586acdba3a0ddc93693a313eab67616d0000b2736da502e35a7a3e48de2b0f74",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b273008229fe01b451d074a9aa70ab67616d0000b27311b32bddec78cb96bcd8154bab67616d0000b273586acdba3a0ddc93693a313eab67616d0000b2736da502e35a7a3e48de2b0f74",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b273008229fe01b451d074a9aa70ab67616d0000b27311b32bddec78cb96bcd8154bab67616d0000b273586acdba3a0ddc93693a313eab67616d0000b2736da502e35a7a3e48de2b0f74",
+        "width": 60
+      }
+    ],
+    "name": "My playlist #73",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "NSwxMWJkNDcwODM0YjRhM2I0MWY2MzhjMTdmYjA5M2I2NzIzMGY1ZTAz",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/6bHf8FXKDg0hmz0AWjTgLg/tracks",
+      "total": 4
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:6bHf8FXKDg0hmz0AWjTgLg"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/0XfFHBGd9uKkYE9Z9znW8g"
+    },
+    "href": "https://api.spotify.com/v1/playlists/0XfFHBGd9uKkYE9Z9znW8g",
+    "id": "0XfFHBGd9uKkYE9Z9znW8g",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734a25265c75b270f2ad209884",
+        "width": 640
+      }
+    ],
+    "name": "Stations, Columbia",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "Miw4Yzc4YTBjYzA0ZjljN2UzYmZhMjRiOWNiMmU4MDMzMzVlNTEzMzk5",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/0XfFHBGd9uKkYE9Z9znW8g/tracks",
+      "total": 1
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:0XfFHBGd9uKkYE9Z9znW8g"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/6pgBsrfNXcVjldm9vgvFPA"
+    },
+    "href": "https://api.spotify.com/v1/playlists/6pgBsrfNXcVjldm9vgvFPA",
+    "id": "6pgBsrfNXcVjldm9vgvFPA",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b273670f91f937e105b878366cffab67616d0000b273a8df0c930a741d6f49cc3f8dab67616d0000b273d658a02ba8931985bdc4e0daab67616d0000b273e81124204c88882d0343eaee",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b273670f91f937e105b878366cffab67616d0000b273a8df0c930a741d6f49cc3f8dab67616d0000b273d658a02ba8931985bdc4e0daab67616d0000b273e81124204c88882d0343eaee",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b273670f91f937e105b878366cffab67616d0000b273a8df0c930a741d6f49cc3f8dab67616d0000b273d658a02ba8931985bdc4e0daab67616d0000b273e81124204c88882d0343eaee",
+        "width": 60
+      }
+    ],
+    "name": "Carolina",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "OCxiM2RhMjEzMDEzM2I1ZTY3NjUzMGNlMTkzY2RhYmI3ZDU2YWE1NTc5",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/6pgBsrfNXcVjldm9vgvFPA/tracks",
+      "total": 7
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:6pgBsrfNXcVjldm9vgvFPA"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/5NKIz1y74sGWWIvE8TevPK"
+    },
+    "href": "https://api.spotify.com/v1/playlists/5NKIz1y74sGWWIvE8TevPK",
+    "id": "5NKIz1y74sGWWIvE8TevPK",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2738e62ab7239cd10dfc2404d2f",
+        "width": 640
+      }
+    ],
+    "name": "My playlist #36",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MixiNzAwMDhiYzU3NzdiOGQxOWU1MTJmNTJjNjYyODBjZDYxMTQyN2Vi",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/5NKIz1y74sGWWIvE8TevPK/tracks",
+      "total": 1
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:5NKIz1y74sGWWIvE8TevPK"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/7HifzuYE7yg5qQoeeRu4vF"
+    },
+    "href": "https://api.spotify.com/v1/playlists/7HifzuYE7yg5qQoeeRu4vF",
+    "id": "7HifzuYE7yg5qQoeeRu4vF",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734d1aa70668dde297137152dc",
+        "width": 640
+      }
+    ],
+    "name": "Michigan",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MiwzZjAyYmI1MGRkZDQyNTYyZGM1MDMwNWE2NmMwNjdjYmMyMTdlY2Q4",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/7HifzuYE7yg5qQoeeRu4vF/tracks",
+      "total": 1
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:7HifzuYE7yg5qQoeeRu4vF"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/02ITYN7AJDN93hqLZtUBWr"
+    },
+    "href": "https://api.spotify.com/v1/playlists/02ITYN7AJDN93hqLZtUBWr",
+    "id": "02ITYN7AJDN93hqLZtUBWr",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27359b8b957f164ce660919f1f4",
+        "width": 640
+      }
+    ],
+    "name": "Idaho",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "Miw1NDQzOTBlYzNjZmJhN2FmZjViOGQyYjJmYmNkZjE0YzM2NmFhNjg0",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/02ITYN7AJDN93hqLZtUBWr/tracks",
+      "total": 1
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:02ITYN7AJDN93hqLZtUBWr"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/4hofRrYob8FI3Ob7CgSmQc"
+    },
+    "href": "https://api.spotify.com/v1/playlists/4hofRrYob8FI3Ob7CgSmQc",
+    "id": "4hofRrYob8FI3Ob7CgSmQc",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273750d4a1b362296d1b815a223",
+        "width": 640
+      }
+    ],
+    "name": "Seattle Life",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MSxiNWEyYzdlYzk4ODNkNTJhNTZjZWQ3MzhiMmU3MjllMWM3YWJkNmRi",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/4hofRrYob8FI3Ob7CgSmQc/tracks",
+      "total": 0
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:4hofRrYob8FI3Ob7CgSmQc"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/1rcXJCOaZ5rJEg3ZZ0mJCI"
+    },
+    "href": "https://api.spotify.com/v1/playlists/1rcXJCOaZ5rJEg3ZZ0mJCI",
+    "id": "1rcXJCOaZ5rJEg3ZZ0mJCI",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739d2efe43d5b7ebc7cb60ca81",
+        "width": 640
+      }
+    ],
+    "name": "Lydia",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "Myw2MjFiY2IwNDg1ZWEyZmMwYTE5OTM1ZTVlNWI4NmZhNWI4MWMzZTVl",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/1rcXJCOaZ5rJEg3ZZ0mJCI/tracks",
+      "total": 2
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:1rcXJCOaZ5rJEg3ZZ0mJCI"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/6TxHnWXMUMaQ7b05y22Sxl"
+    },
+    "href": "https://api.spotify.com/v1/playlists/6TxHnWXMUMaQ7b05y22Sxl",
+    "id": "6TxHnWXMUMaQ7b05y22Sxl",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2731336b31b6a1799f0de5807acab67616d0000b27321ebf49b3292c3f0f575f0f5ab67616d0000b27361a13426a99fd3500e2fff54ab67616d0000b273c5653f9038e42efad2f8a266",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2731336b31b6a1799f0de5807acab67616d0000b27321ebf49b3292c3f0f575f0f5ab67616d0000b27361a13426a99fd3500e2fff54ab67616d0000b273c5653f9038e42efad2f8a266",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2731336b31b6a1799f0de5807acab67616d0000b27321ebf49b3292c3f0f575f0f5ab67616d0000b27361a13426a99fd3500e2fff54ab67616d0000b273c5653f9038e42efad2f8a266",
+        "width": 60
+      }
+    ],
+    "name": "Mom",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "NDEsZjdjZWM5ZDYxOTljMzc3MmVlNzA3NTFlNDU5NmJjZWFmYzZhOTBiMA==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/6TxHnWXMUMaQ7b05y22Sxl/tracks",
+      "total": 45
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:6TxHnWXMUMaQ7b05y22Sxl"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/732D4Nbw8HckTIGqV1zyTO"
+    },
+    "href": "https://api.spotify.com/v1/playlists/732D4Nbw8HckTIGqV1zyTO",
+    "id": "732D4Nbw8HckTIGqV1zyTO",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b27385419e5ebc07bb08283bb1dd",
+        "width": 640
+      }
+    ],
+    "name": "Firs",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "Nyw2MTA4NGExMjk3NTRkZDU0M2Y1YTQxZGZkMTM1MTljYzE4NTU4MmQ2",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/732D4Nbw8HckTIGqV1zyTO/tracks",
+      "total": 3
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:732D4Nbw8HckTIGqV1zyTO"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/4wbh4ISPJkmLar04UPg6h9"
+    },
+    "href": "https://api.spotify.com/v1/playlists/4wbh4ISPJkmLar04UPg6h9",
+    "id": "4wbh4ISPJkmLar04UPg6h9",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b27326ca7305db69aa21efcf2b7aab67616d0000b27328933b808bfb4cbbd0385400ab67616d0000b27334ef81d1ff3b4682a4e97f70ab67616d0000b2735726e327fd968a6fb5974350",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b27326ca7305db69aa21efcf2b7aab67616d0000b27328933b808bfb4cbbd0385400ab67616d0000b27334ef81d1ff3b4682a4e97f70ab67616d0000b2735726e327fd968a6fb5974350",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b27326ca7305db69aa21efcf2b7aab67616d0000b27328933b808bfb4cbbd0385400ab67616d0000b27334ef81d1ff3b4682a4e97f70ab67616d0000b2735726e327fd968a6fb5974350",
+        "width": 60
+      }
+    ],
+    "name": "X-Country Summers",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "OCxmOTQwZWZkNWU3MDUyNDQwNjFkYzllZTIwZmJkZTQ1NjA4ZTYwODY2",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/4wbh4ISPJkmLar04UPg6h9/tracks",
+      "total": 7
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:4wbh4ISPJkmLar04UPg6h9"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/2w8tqoM1yIMv9v2LE1rp2u"
+    },
+    "href": "https://api.spotify.com/v1/playlists/2w8tqoM1yIMv9v2LE1rp2u",
+    "id": "2w8tqoM1yIMv9v2LE1rp2u",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273bf7c317a63c4f128b8823406",
+        "width": 640
+      }
+    ],
+    "name": "Skinny Love",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "NCwzNWE0ZTY2MDdhZWE1MTVhODJlYjQyZjQzOGJlOTM3N2ExY2MxMzk4",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/2w8tqoM1yIMv9v2LE1rp2u/tracks",
+      "total": 3
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:2w8tqoM1yIMv9v2LE1rp2u"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/0UflKN2whYXJ34vbHIeopu"
+    },
+    "href": "https://api.spotify.com/v1/playlists/0UflKN2whYXJ34vbHIeopu",
+    "id": "0UflKN2whYXJ34vbHIeopu",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273781f6dd5abe91929df0314e3",
+        "width": 640
+      }
+    ],
+    "name": "Running Start",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "NCxkNzg3MjQ0MjQ0NzczMWY3NGQ5MzcwNGNlMmRlYjU2NTQ5OWEyMTE4",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/0UflKN2whYXJ34vbHIeopu/tracks",
+      "total": 3
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:0UflKN2whYXJ34vbHIeopu"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/5XT8KVR0sRLDM5XxGOyZpD"
+    },
+    "href": "https://api.spotify.com/v1/playlists/5XT8KVR0sRLDM5XxGOyZpD",
+    "id": "5XT8KVR0sRLDM5XxGOyZpD",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b27344bb39545f5d7176080d17aeab67616d0000b2735eabdb4eda3dd1a43ed7d8dfab67616d0000b273a9929deb093a6617d2493b03ab67616d0000b273e3b67445bdc0de52a6de72ab",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b27344bb39545f5d7176080d17aeab67616d0000b2735eabdb4eda3dd1a43ed7d8dfab67616d0000b273a9929deb093a6617d2493b03ab67616d0000b273e3b67445bdc0de52a6de72ab",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b27344bb39545f5d7176080d17aeab67616d0000b2735eabdb4eda3dd1a43ed7d8dfab67616d0000b273a9929deb093a6617d2493b03ab67616d0000b273e3b67445bdc0de52a6de72ab",
+        "width": 60
+      }
+    ],
+    "name": "Lyla",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "Nyw2MTk1NTJjNWQ0ZTJhNzE0ZGYzYTUxM2FlZjg4NWJiY2ZjOWMyZTg4",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/5XT8KVR0sRLDM5XxGOyZpD/tracks",
+      "total": 6
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:5XT8KVR0sRLDM5XxGOyZpD"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/41lVT437ZgowRhGtmbt0WJ"
+    },
+    "href": "https://api.spotify.com/v1/playlists/41lVT437ZgowRhGtmbt0WJ",
+    "id": "41lVT437ZgowRhGtmbt0WJ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2737348311d84dc91045dd5dbf9ab67616d0000b2737cdb6268970ceeb84039819eab67616d0000b2738be169a5804825c24a64ad7eab67616d0000b273d671d57984341729c3964516",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2737348311d84dc91045dd5dbf9ab67616d0000b2737cdb6268970ceeb84039819eab67616d0000b2738be169a5804825c24a64ad7eab67616d0000b273d671d57984341729c3964516",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2737348311d84dc91045dd5dbf9ab67616d0000b2737cdb6268970ceeb84039819eab67616d0000b2738be169a5804825c24a64ad7eab67616d0000b273d671d57984341729c3964516",
+        "width": 60
+      }
+    ],
+    "name": "Vital",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MjgsZTkwNGZkZjk2NDQzYTMzNWNhNzI3MzE1ZDIzYjk1Yjc0N2RhNWNkZA==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/41lVT437ZgowRhGtmbt0WJ/tracks",
+      "total": 26
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:41lVT437ZgowRhGtmbt0WJ"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/4ZdKCOqcI4OCHMr6lmEryu"
+    },
+    "href": "https://api.spotify.com/v1/playlists/4ZdKCOqcI4OCHMr6lmEryu",
+    "id": "4ZdKCOqcI4OCHMr6lmEryu",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2735a69ce80969485b90c5695e7",
+        "width": 640
+      }
+    ],
+    "name": "Desert rain morning",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MixkYzRiZTdhNWM0ZDUyM2E0ZGUwMDUzNDhjMzYwOTAyZWNkNzc2YzZh",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/4ZdKCOqcI4OCHMr6lmEryu/tracks",
+      "total": 1
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:4ZdKCOqcI4OCHMr6lmEryu"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/4FVa7z7EG1Fz78hh3xBbPu"
+    },
+    "href": "https://api.spotify.com/v1/playlists/4FVa7z7EG1Fz78hh3xBbPu",
+    "id": "4FVa7z7EG1Fz78hh3xBbPu",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2732868c4713a3912fd476b42f1ab67616d0000b27345680a4a57c97894490a01c1ab67616d0000b27383c39b0d32eb4a2064e1e228ab67616d0000b273ccdddd46119a4ff53eaf1f5d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2732868c4713a3912fd476b42f1ab67616d0000b27345680a4a57c97894490a01c1ab67616d0000b27383c39b0d32eb4a2064e1e228ab67616d0000b273ccdddd46119a4ff53eaf1f5d",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2732868c4713a3912fd476b42f1ab67616d0000b27345680a4a57c97894490a01c1ab67616d0000b27383c39b0d32eb4a2064e1e228ab67616d0000b273ccdddd46119a4ff53eaf1f5d",
+        "width": 60
+      }
+    ],
+    "name": "I\u2019m Just A Kid",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MTksZmUyNGVlNDE5NGVhYTMzOTRjNGJmYTQ4YzAzODY1ZjM0NWZhZThjMg==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/4FVa7z7EG1Fz78hh3xBbPu/tracks",
+      "total": 18
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:4FVa7z7EG1Fz78hh3xBbPu"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/3r6tlrYenX9dBQGhdSTw8I"
+    },
+    "href": "https://api.spotify.com/v1/playlists/3r6tlrYenX9dBQGhdSTw8I",
+    "id": "3r6tlrYenX9dBQGhdSTw8I",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2734fe297c018e495a97662e5ac",
+        "width": 640
+      }
+    ],
+    "name": "Ballard dreams",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "NCxkNTFhZTcyOTQ0YzYzNWUyNDVlYzdjOGYwMzc2NmNiYzY4NGQzOWRj",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/3r6tlrYenX9dBQGhdSTw8I/tracks",
+      "total": 3
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:3r6tlrYenX9dBQGhdSTw8I"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/0eWfDIqlNARJk0UZPVABzi"
+    },
+    "href": "https://api.spotify.com/v1/playlists/0eWfDIqlNARJk0UZPVABzi",
+    "id": "0eWfDIqlNARJk0UZPVABzi",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b27328a00032ff3b86af3d7e0e54ab67616d0000b2734a052b99c042dc15f933145bab67616d0000b2735ffffefb4343759b63f72598ab67616d0000b273f903e62767a0e22e33b7af83",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b27328a00032ff3b86af3d7e0e54ab67616d0000b2734a052b99c042dc15f933145bab67616d0000b2735ffffefb4343759b63f72598ab67616d0000b273f903e62767a0e22e33b7af83",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b27328a00032ff3b86af3d7e0e54ab67616d0000b2734a052b99c042dc15f933145bab67616d0000b2735ffffefb4343759b63f72598ab67616d0000b273f903e62767a0e22e33b7af83",
+        "width": 60
+      }
+    ],
+    "name": "Dad",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MjgsOGY2OTZkNzMyYmViNGVlNWFhODdlYjViNDdkNWNjOTE5NTk0MzU3OQ==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/0eWfDIqlNARJk0UZPVABzi/tracks",
+      "total": 24
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:0eWfDIqlNARJk0UZPVABzi"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/14dhlS5sAxj2RuY7irFhJ3"
+    },
+    "href": "https://api.spotify.com/v1/playlists/14dhlS5sAxj2RuY7irFhJ3",
+    "id": "14dhlS5sAxj2RuY7irFhJ3",
+    "images": [],
+    "name": "2023",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "NTIzLDBlNzI4Yjc4MjEyMGVjMWM2ZTkyNTc2MGIzNGE4NGM0ZmNhMDM2OTU=",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/14dhlS5sAxj2RuY7irFhJ3/tracks",
+      "total": 0
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:14dhlS5sAxj2RuY7irFhJ3"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/7KKvrTUvdqYLPHL403y9cR"
+    },
+    "href": "https://api.spotify.com/v1/playlists/7KKvrTUvdqYLPHL403y9cR",
+    "id": "7KKvrTUvdqYLPHL403y9cR",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2737ece58ddcfb02a1a29b1c1b0",
+        "width": 640
+      }
+    ],
+    "name": "Reed's Birthday - Canada Camping & Climbing",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "NCxmYjgwNWQ4NGQ3YWUyNWE4NTZiMWEwOGUyZTgxMTU5ZmU1ZjM4Zjll",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/7KKvrTUvdqYLPHL403y9cR/tracks",
+      "total": 2
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:7KKvrTUvdqYLPHL403y9cR"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/3sv3B8ND0K2HdcchJ8Uhkd"
+    },
+    "href": "https://api.spotify.com/v1/playlists/3sv3B8ND0K2HdcchJ8Uhkd",
+    "id": "3sv3B8ND0K2HdcchJ8Uhkd",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273f176846c64acf3cb210d2ab7",
+        "width": 640
+      }
+    ],
+    "name": "Imagine Festival",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "OSwyOTI2NmIwM2JhNjI4NzA4NDc5ZWNiM2FlNGVkZWMzMmJiOWM5YTRk",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/3sv3B8ND0K2HdcchJ8Uhkd/tracks",
+      "total": 3
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:3sv3B8ND0K2HdcchJ8Uhkd"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/0GKFbSm3JfMm6qvOAgq0Mx"
+    },
+    "href": "https://api.spotify.com/v1/playlists/0GKFbSm3JfMm6qvOAgq0Mx",
+    "id": "0GKFbSm3JfMm6qvOAgq0Mx",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b273a4da54a56eb34bb7e7113ec9ab67616d0000b273b662c6288ab55a87a6b46488ab67616d0000b273cae6e44dcc84e2035c3ad092ab67616d0000b273edba220be76f96d51bd38838",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b273a4da54a56eb34bb7e7113ec9ab67616d0000b273b662c6288ab55a87a6b46488ab67616d0000b273cae6e44dcc84e2035c3ad092ab67616d0000b273edba220be76f96d51bd38838",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b273a4da54a56eb34bb7e7113ec9ab67616d0000b273b662c6288ab55a87a6b46488ab67616d0000b273cae6e44dcc84e2035c3ad092ab67616d0000b273edba220be76f96d51bd38838",
+        "width": 60
+      }
+    ],
+    "name": "2022",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "OTgxLDAzZTdkODM1NzZmY2I4OTMwZGQ0ZWVlNWNhZDk2MzE1ZTA0NWRlYzI=",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/0GKFbSm3JfMm6qvOAgq0Mx/tracks",
+      "total": 534
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:0GKFbSm3JfMm6qvOAgq0Mx"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/1BVMuEeeFKFJZZFaYlsjjW"
+    },
+    "href": "https://api.spotify.com/v1/playlists/1BVMuEeeFKFJZZFaYlsjjW",
+    "id": "1BVMuEeeFKFJZZFaYlsjjW",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2739933626fc90bb90a854c1887",
+        "width": 640
+      }
+    ],
+    "name": "Colorado",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "Miw0NzM2YWY0ZTVlMGIxZmJmNjA5ZjA1NzU0ODU5OGZmODA2OTA3NGZm",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/1BVMuEeeFKFJZZFaYlsjjW/tracks",
+      "total": 1
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:1BVMuEeeFKFJZZFaYlsjjW"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/2RwL1NZhFd4NFzyYg1hBK8"
+    },
+    "href": "https://api.spotify.com/v1/playlists/2RwL1NZhFd4NFzyYg1hBK8",
+    "id": "2RwL1NZhFd4NFzyYg1hBK8",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2730b3f2caed60c2999403c02ffab67616d0000b273496ddd69ddb33853f8ff6fb9ab67616d0000b273b090f8df1814f819ad77fc67ab67616d0000b273c30d59775ce5ef3f59138f59",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2730b3f2caed60c2999403c02ffab67616d0000b273496ddd69ddb33853f8ff6fb9ab67616d0000b273b090f8df1814f819ad77fc67ab67616d0000b273c30d59775ce5ef3f59138f59",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2730b3f2caed60c2999403c02ffab67616d0000b273496ddd69ddb33853f8ff6fb9ab67616d0000b273b090f8df1814f819ad77fc67ab67616d0000b273c30d59775ce5ef3f59138f59",
+        "width": 60
+      }
+    ],
+    "name": "2021",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "NTg5LDZjNDc5NGQwMDgxN2VhZDk1OTJmZjU2ZWY5NTZlNGViMjcyODliMDk=",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/2RwL1NZhFd4NFzyYg1hBK8/tracks",
+      "total": 301
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:2RwL1NZhFd4NFzyYg1hBK8"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/1jbMmDc19wBaipd8ZbJIe9"
+    },
+    "href": "https://api.spotify.com/v1/playlists/1jbMmDc19wBaipd8ZbJIe9",
+    "id": "1jbMmDc19wBaipd8ZbJIe9",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b27352c75ed37313b889447011efab67616d0000b2739bf7698a1737bc7c2e4a14f3ab67616d0000b273aeb14ead136118a987246b63ab67616d0000b273b1b3fdd23be4c158d4d2c32f",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b27352c75ed37313b889447011efab67616d0000b2739bf7698a1737bc7c2e4a14f3ab67616d0000b273aeb14ead136118a987246b63ab67616d0000b273b1b3fdd23be4c158d4d2c32f",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b27352c75ed37313b889447011efab67616d0000b2739bf7698a1737bc7c2e4a14f3ab67616d0000b273aeb14ead136118a987246b63ab67616d0000b273b1b3fdd23be4c158d4d2c32f",
+        "width": 60
+      }
+    ],
+    "name": "2020",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MzkyLGU0MzY0NGVlMmI4MDczNTUxNmFiMDVkYWY5OWU5ZWQ2N2I4N2IzOTI=",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/1jbMmDc19wBaipd8ZbJIe9/tracks",
+      "total": 241
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:1jbMmDc19wBaipd8ZbJIe9"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/0bBrxCaQgDODBUQLdd6nOd"
+    },
+    "href": "https://api.spotify.com/v1/playlists/0bBrxCaQgDODBUQLdd6nOd",
+    "id": "0bBrxCaQgDODBUQLdd6nOd",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b27353c7a0c956286b6a39185af4ab67616d0000b27360ec4df52c2d724bc53ffec5ab67616d0000b2737f37a4001ae7d8be430bd91bab67616d0000b27388e9a190d00a524ad9d40dc9",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b27353c7a0c956286b6a39185af4ab67616d0000b27360ec4df52c2d724bc53ffec5ab67616d0000b2737f37a4001ae7d8be430bd91bab67616d0000b27388e9a190d00a524ad9d40dc9",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b27353c7a0c956286b6a39185af4ab67616d0000b27360ec4df52c2d724bc53ffec5ab67616d0000b2737f37a4001ae7d8be430bd91bab67616d0000b27388e9a190d00a524ad9d40dc9",
+        "width": 60
+      }
+    ],
+    "name": "2019",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MzIyLDUwYWE0NGViZWUyMTllODNlOTgxMzJlMGU2MGYxYmYwMjNmNWE4ZTU=",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/0bBrxCaQgDODBUQLdd6nOd/tracks",
+      "total": 182
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:0bBrxCaQgDODBUQLdd6nOd"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/3KT0i04x6oiZrxG36KkP0x"
+    },
+    "href": "https://api.spotify.com/v1/playlists/3KT0i04x6oiZrxG36KkP0x",
+    "id": "3KT0i04x6oiZrxG36KkP0x",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2733632681259e482efdffdc1b1ab67616d0000b2734ece7c376ac63049f46aec6bab67616d0000b273f907de96b9a4fbc04accc0d5ab67616d0000b273f9b3efc6ea0e892c7377401c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2733632681259e482efdffdc1b1ab67616d0000b2734ece7c376ac63049f46aec6bab67616d0000b273f907de96b9a4fbc04accc0d5ab67616d0000b273f9b3efc6ea0e892c7377401c",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2733632681259e482efdffdc1b1ab67616d0000b2734ece7c376ac63049f46aec6bab67616d0000b273f907de96b9a4fbc04accc0d5ab67616d0000b273f9b3efc6ea0e892c7377401c",
+        "width": 60
+      }
+    ],
+    "name": "2018",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MjA2LDkxM2VjODNjNzFmNDNjZjZkN2Y2OTY5YzYyZjlhOGNjM2Q0Njk0ZWQ=",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/3KT0i04x6oiZrxG36KkP0x/tracks",
+      "total": 146
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:3KT0i04x6oiZrxG36KkP0x"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/3kGjUnH4gEOtRVO5ZREKmZ"
+    },
+    "href": "https://api.spotify.com/v1/playlists/3kGjUnH4gEOtRVO5ZREKmZ",
+    "id": "3kGjUnH4gEOtRVO5ZREKmZ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2735a38bd36056b909ed607689dab67616d0000b27395dc433a641b2221a89e926fab67616d0000b273b1a3dd0c167a590f223e10c0ab67616d0000b273d0aff101587ed69600d7daab",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2735a38bd36056b909ed607689dab67616d0000b27395dc433a641b2221a89e926fab67616d0000b273b1a3dd0c167a590f223e10c0ab67616d0000b273d0aff101587ed69600d7daab",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2735a38bd36056b909ed607689dab67616d0000b27395dc433a641b2221a89e926fab67616d0000b273b1a3dd0c167a590f223e10c0ab67616d0000b273d0aff101587ed69600d7daab",
+        "width": 60
+      }
+    ],
+    "name": "2017",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MjE2LGY5NWYwNTUyNjVlZWQ1ZTY2YzRjODA3ZDI0NjdkYTVhOTlmNjQyNDk=",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/3kGjUnH4gEOtRVO5ZREKmZ/tracks",
+      "total": 141
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:3kGjUnH4gEOtRVO5ZREKmZ"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/2LXElZxRlUCBraQZDmXM8c"
+    },
+    "href": "https://api.spotify.com/v1/playlists/2LXElZxRlUCBraQZDmXM8c",
+    "id": "2LXElZxRlUCBraQZDmXM8c",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b273cd34380a48c22de3d0e475deab67616d0000b273d9e9693926785359f903acb5ab67616d0000b273ee053a3589ea64a4a4d00dc8ab67616d0000b273f4ca75192df162f78a24023e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b273cd34380a48c22de3d0e475deab67616d0000b273d9e9693926785359f903acb5ab67616d0000b273ee053a3589ea64a4a4d00dc8ab67616d0000b273f4ca75192df162f78a24023e",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b273cd34380a48c22de3d0e475deab67616d0000b273d9e9693926785359f903acb5ab67616d0000b273ee053a3589ea64a4a4d00dc8ab67616d0000b273f4ca75192df162f78a24023e",
+        "width": 60
+      }
+    ],
+    "name": "2016",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MTUyLDBkODI1YmMyNzI3M2MyY2Q3MmE0MWIzNDdhYTdmOTUzY2Y1NTQwMDk=",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/2LXElZxRlUCBraQZDmXM8c/tracks",
+      "total": 105
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:2LXElZxRlUCBraQZDmXM8c"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/7Mp4iNvOsLdyspeOcfaQRK"
+    },
+    "href": "https://api.spotify.com/v1/playlists/7Mp4iNvOsLdyspeOcfaQRK",
+    "id": "7Mp4iNvOsLdyspeOcfaQRK",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2735a69ce80969485b90c5695e7ab67616d0000b273a8df0c930a741d6f49cc3f8dab67616d0000b273c7c46983ade2677731205397ab67616d0000b273d671d57984341729c3964516",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2735a69ce80969485b90c5695e7ab67616d0000b273a8df0c930a741d6f49cc3f8dab67616d0000b273c7c46983ade2677731205397ab67616d0000b273d671d57984341729c3964516",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2735a69ce80969485b90c5695e7ab67616d0000b273a8df0c930a741d6f49cc3f8dab67616d0000b273c7c46983ade2677731205397ab67616d0000b273d671d57984341729c3964516",
+        "width": 60
+      }
+    ],
+    "name": "2015",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MTA3LDFmMTg1M2NkNDQwZWVjYjA5YzBkMjQwOGE0NDkxYzNmNGFhYTU3ZWU=",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/7Mp4iNvOsLdyspeOcfaQRK/tracks",
+      "total": 74
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:7Mp4iNvOsLdyspeOcfaQRK"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/0ZbMzJ4Zltp1fGuZc3TmIr"
+    },
+    "href": "https://api.spotify.com/v1/playlists/0ZbMzJ4Zltp1fGuZc3TmIr",
+    "id": "0ZbMzJ4Zltp1fGuZc3TmIr",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b27318dfea2855d57047da23647fab67616d0000b2734ca68d59a4a29c856a4a39c2ab67616d0000b2735d8b40b3b5a61b3d8f5f8c54ab67616d0000b273670f91f937e105b878366cff",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b27318dfea2855d57047da23647fab67616d0000b2734ca68d59a4a29c856a4a39c2ab67616d0000b2735d8b40b3b5a61b3d8f5f8c54ab67616d0000b273670f91f937e105b878366cff",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b27318dfea2855d57047da23647fab67616d0000b2734ca68d59a4a29c856a4a39c2ab67616d0000b2735d8b40b3b5a61b3d8f5f8c54ab67616d0000b273670f91f937e105b878366cff",
+        "width": 60
+      }
+    ],
+    "name": "2014",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MTE2LGZjMjVmNTI5ZjZlMTMwMDMxNGVjZWRjNjAzNWU3ZDkwYzMwODI3MTk=",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/0ZbMzJ4Zltp1fGuZc3TmIr/tracks",
+      "total": 71
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:0ZbMzJ4Zltp1fGuZc3TmIr"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/6FnH0u43s3exARy9lgI9Cp"
+    },
+    "href": "https://api.spotify.com/v1/playlists/6FnH0u43s3exARy9lgI9Cp",
+    "id": "6FnH0u43s3exARy9lgI9Cp",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2731b540c6520c468dfc0171a60ab67616d0000b27360004d2dc7d571e6c54ce7f1ab67616d0000b2736567a393a964a845a89b7f70ab67616d0000b273e2ea52a45363240135a0ce8c",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2731b540c6520c468dfc0171a60ab67616d0000b27360004d2dc7d571e6c54ce7f1ab67616d0000b2736567a393a964a845a89b7f70ab67616d0000b273e2ea52a45363240135a0ce8c",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2731b540c6520c468dfc0171a60ab67616d0000b27360004d2dc7d571e6c54ce7f1ab67616d0000b2736567a393a964a845a89b7f70ab67616d0000b273e2ea52a45363240135a0ce8c",
+        "width": 60
+      }
+    ],
+    "name": "Lyla",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "NTYsZjAxMjUyNjI1NzE3NjcwZDRiOTQyNmNhMDNlNzQ1NDJhNDVkNjUwMQ==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/6FnH0u43s3exARy9lgI9Cp/tracks",
+      "total": 56
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:6FnH0u43s3exARy9lgI9Cp"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/4p5wWHmtKM3HbGyeUuG4tT"
+    },
+    "href": "https://api.spotify.com/v1/playlists/4p5wWHmtKM3HbGyeUuG4tT",
+    "id": "4p5wWHmtKM3HbGyeUuG4tT",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b27300bf4bb8a60094c795be4f1aab67616d0000b27300dc54892c783f1825e7c60cab67616d0000b2732ae92030b51fb8135d694af9ab67616d0000b273532033d0d90736f661c13d35",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b27300bf4bb8a60094c795be4f1aab67616d0000b27300dc54892c783f1825e7c60cab67616d0000b2732ae92030b51fb8135d694af9ab67616d0000b273532033d0d90736f661c13d35",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b27300bf4bb8a60094c795be4f1aab67616d0000b27300dc54892c783f1825e7c60cab67616d0000b2732ae92030b51fb8135d694af9ab67616d0000b273532033d0d90736f661c13d35",
+        "width": 60
+      }
+    ],
+    "name": "2013",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "NzQsYzVlODRmNWI2ZjRlYzcyNjZhNThjY2E3MzAxODM2MWYxNjIwNDE0NA==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/4p5wWHmtKM3HbGyeUuG4tT/tracks",
+      "total": 45
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:4p5wWHmtKM3HbGyeUuG4tT"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/5dxi6fpsTqUcccVf1Id6LK"
+    },
+    "href": "https://api.spotify.com/v1/playlists/5dxi6fpsTqUcccVf1Id6LK",
+    "id": "5dxi6fpsTqUcccVf1Id6LK",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b27373cd0c903b9929d5ce7b26ddab67616d0000b273a302b28c753cb02d31ca2768ab67616d0000b273d28d2ebdedb220e479743797ab67616d0000b273e20899c9d33b8ee14274af77",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b27373cd0c903b9929d5ce7b26ddab67616d0000b273a302b28c753cb02d31ca2768ab67616d0000b273d28d2ebdedb220e479743797ab67616d0000b273e20899c9d33b8ee14274af77",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b27373cd0c903b9929d5ce7b26ddab67616d0000b273a302b28c753cb02d31ca2768ab67616d0000b273d28d2ebdedb220e479743797ab67616d0000b273e20899c9d33b8ee14274af77",
+        "width": 60
+      }
+    ],
+    "name": "2012",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "NDgsZmE0OWNjNTg1NjE0M2IyYmNiMjRmMWFjM2M4Y2YwM2JmZmE4ZDRkMw==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/5dxi6fpsTqUcccVf1Id6LK/tracks",
+      "total": 32
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:5dxi6fpsTqUcccVf1Id6LK"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/2HtyEgNk6ruA1xt6p6JHgK"
+    },
+    "href": "https://api.spotify.com/v1/playlists/2HtyEgNk6ruA1xt6p6JHgK",
+    "id": "2HtyEgNk6ruA1xt6p6JHgK",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2730a1d20ec09cab4bb17a36aabab67616d0000b27325d10f813fd1114b2bb9e39aab67616d0000b27399da48a530f6ca2ef86da3ccab67616d0000b273eddb2639b74ac6c202032ebe",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2730a1d20ec09cab4bb17a36aabab67616d0000b27325d10f813fd1114b2bb9e39aab67616d0000b27399da48a530f6ca2ef86da3ccab67616d0000b273eddb2639b74ac6c202032ebe",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2730a1d20ec09cab4bb17a36aabab67616d0000b27325d10f813fd1114b2bb9e39aab67616d0000b27399da48a530f6ca2ef86da3ccab67616d0000b273eddb2639b74ac6c202032ebe",
+        "width": 60
+      }
+    ],
+    "name": "2011",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MzAsZWMxMjUxYjM5NzgwODUyNzA3ZGEzZGNhYzMxNGQ0ZDgyNTgwYTYzMg==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/2HtyEgNk6ruA1xt6p6JHgK/tracks",
+      "total": 22
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:2HtyEgNk6ruA1xt6p6JHgK"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/0TWuwZ0beW2CQsKTZ25NVR"
+    },
+    "href": "https://api.spotify.com/v1/playlists/0TWuwZ0beW2CQsKTZ25NVR",
+    "id": "0TWuwZ0beW2CQsKTZ25NVR",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2732f7e921a840237e8af47e3d0ab67616d0000b27337ce3dd20c2318e13c6608edab67616d0000b273484d121f0e2d2caf87d5d10bab67616d0000b2735f1a936466414ac219048219",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2732f7e921a840237e8af47e3d0ab67616d0000b27337ce3dd20c2318e13c6608edab67616d0000b273484d121f0e2d2caf87d5d10bab67616d0000b2735f1a936466414ac219048219",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2732f7e921a840237e8af47e3d0ab67616d0000b27337ce3dd20c2318e13c6608edab67616d0000b273484d121f0e2d2caf87d5d10bab67616d0000b2735f1a936466414ac219048219",
+        "width": 60
+      }
+    ],
+    "name": "2010",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MzMsMDk3Yjg5YjVkMDhmZjNkMDQxY2NjMWFmNTc5NzcxZjVjNjliNzRjNQ==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/0TWuwZ0beW2CQsKTZ25NVR/tracks",
+      "total": 22
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:0TWuwZ0beW2CQsKTZ25NVR"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/71YQTEAvbiPE1BCEVC6otD"
+    },
+    "href": "https://api.spotify.com/v1/playlists/71YQTEAvbiPE1BCEVC6otD",
+    "id": "71YQTEAvbiPE1BCEVC6otD",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2730672b0f8756ae2af86e8a5ceab67616d0000b27393a1519118102a6d78164713ab67616d0000b27399f2c3ea4400725031a5d619ab67616d0000b273aab2c3c3f1f3207137d915c9",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2730672b0f8756ae2af86e8a5ceab67616d0000b27393a1519118102a6d78164713ab67616d0000b27399f2c3ea4400725031a5d619ab67616d0000b273aab2c3c3f1f3207137d915c9",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2730672b0f8756ae2af86e8a5ceab67616d0000b27393a1519118102a6d78164713ab67616d0000b27399f2c3ea4400725031a5d619ab67616d0000b273aab2c3c3f1f3207137d915c9",
+        "width": 60
+      }
+    ],
+    "name": "2009",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MzEsMGUxZmUzZjExYjg4NDM4OTExZmUzZDQ4YmE2MWQ1M2IxMjQzN2M3ZQ==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/71YQTEAvbiPE1BCEVC6otD/tracks",
+      "total": 30
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:71YQTEAvbiPE1BCEVC6otD"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/2GYifrdZ4jTeV0ROM3Rko2"
+    },
+    "href": "https://api.spotify.com/v1/playlists/2GYifrdZ4jTeV0ROM3Rko2",
+    "id": "2GYifrdZ4jTeV0ROM3Rko2",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2737015a5dfc1b46e0dee45e09cab67616d0000b273bf7c317a63c4f128b8823406ab67616d0000b273dde86e2f18dc87260491d0d1ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2737015a5dfc1b46e0dee45e09cab67616d0000b273bf7c317a63c4f128b8823406ab67616d0000b273dde86e2f18dc87260491d0d1ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2737015a5dfc1b46e0dee45e09cab67616d0000b273bf7c317a63c4f128b8823406ab67616d0000b273dde86e2f18dc87260491d0d1ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
+        "width": 60
+      }
+    ],
+    "name": "2008",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MjgsNzIyMDA2ZTc1ZDU3NWRiMTY5NzJjNDFlMmJjMjc3OWUwMjhiNmY5NA==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/2GYifrdZ4jTeV0ROM3Rko2/tracks",
+      "total": 17
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:2GYifrdZ4jTeV0ROM3Rko2"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/5NikZMD7p8NWMo1XMXISev"
+    },
+    "href": "https://api.spotify.com/v1/playlists/5NikZMD7p8NWMo1XMXISev",
+    "id": "5NikZMD7p8NWMo1XMXISev",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b27326f7f19c7f0381e56156c94aab67616d0000b27334fd9eb8cd48e518598aec55ab67616d0000b2734529ac36780201bca81d8020ab67616d0000b273d8126126dc45e87c32ad916d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b27326f7f19c7f0381e56156c94aab67616d0000b27334fd9eb8cd48e518598aec55ab67616d0000b2734529ac36780201bca81d8020ab67616d0000b273d8126126dc45e87c32ad916d",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b27326f7f19c7f0381e56156c94aab67616d0000b27334fd9eb8cd48e518598aec55ab67616d0000b2734529ac36780201bca81d8020ab67616d0000b273d8126126dc45e87c32ad916d",
+        "width": 60
+      }
+    ],
+    "name": "2007",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "OSxiYWI4NmY3YmJhYWJhMGE2NjU3YmJiMTZhZjYzZmUwMzIwNWQzMDQx",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/5NikZMD7p8NWMo1XMXISev/tracks",
+      "total": 6
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:5NikZMD7p8NWMo1XMXISev"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/4LHnfptQsm003HPunLVeAQ"
+    },
+    "href": "https://api.spotify.com/v1/playlists/4LHnfptQsm003HPunLVeAQ",
+    "id": "4LHnfptQsm003HPunLVeAQ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2733581b5dc56bd3ea7b9c9d409ab67616d0000b27343a58a3269fa18d1e4f8b5caab67616d0000b2737af5fdc5ef048a68db62b85fab67616d0000b273a6f439c8957170652f9410e2",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2733581b5dc56bd3ea7b9c9d409ab67616d0000b27343a58a3269fa18d1e4f8b5caab67616d0000b2737af5fdc5ef048a68db62b85fab67616d0000b273a6f439c8957170652f9410e2",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2733581b5dc56bd3ea7b9c9d409ab67616d0000b27343a58a3269fa18d1e4f8b5caab67616d0000b2737af5fdc5ef048a68db62b85fab67616d0000b273a6f439c8957170652f9410e2",
+        "width": 60
+      }
+    ],
+    "name": "2006",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MTAsODUwMGI0NWEzNDI2ZjQwNThiMmIxZDE2MzAyYjJhOWIzMDAzMzQ0YQ==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/4LHnfptQsm003HPunLVeAQ/tracks",
+      "total": 9
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:4LHnfptQsm003HPunLVeAQ"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/1RcSpoZ4ZkNY4OrZ7NHB9u"
+    },
+    "href": "https://api.spotify.com/v1/playlists/1RcSpoZ4ZkNY4OrZ7NHB9u",
+    "id": "1RcSpoZ4ZkNY4OrZ7NHB9u",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b273428d2255141c2119409a31b2ab67616d0000b2734e0362c225863f6ae2432651ab67616d0000b27371565eda831124be86c603d5ab67616d0000b273d5d74dc15f88ec6e02c7378d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b273428d2255141c2119409a31b2ab67616d0000b2734e0362c225863f6ae2432651ab67616d0000b27371565eda831124be86c603d5ab67616d0000b273d5d74dc15f88ec6e02c7378d",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b273428d2255141c2119409a31b2ab67616d0000b2734e0362c225863f6ae2432651ab67616d0000b27371565eda831124be86c603d5ab67616d0000b273d5d74dc15f88ec6e02c7378d",
+        "width": 60
+      }
+    ],
+    "name": "2005",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MTUsYjU3NWNiNDc4YmE3ZjRjN2Y4YmRkNDIwYjNiZTlmYWZlZTNkODgxYg==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/1RcSpoZ4ZkNY4OrZ7NHB9u/tracks",
+      "total": 11
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:1RcSpoZ4ZkNY4OrZ7NHB9u"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/66LUUcQd5nVMqKszWOoA9m"
+    },
+    "href": "https://api.spotify.com/v1/playlists/66LUUcQd5nVMqKszWOoA9m",
+    "id": "66LUUcQd5nVMqKszWOoA9m",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b273045d0a38105fbe7bde43c490ab67616d0000b2735060851be5fa1ce67d82f408ab67616d0000b2736f9fccd094fd20004223ceb4ab67616d0000b273726d48d93d02e1271774f023",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b273045d0a38105fbe7bde43c490ab67616d0000b2735060851be5fa1ce67d82f408ab67616d0000b2736f9fccd094fd20004223ceb4ab67616d0000b273726d48d93d02e1271774f023",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b273045d0a38105fbe7bde43c490ab67616d0000b2735060851be5fa1ce67d82f408ab67616d0000b2736f9fccd094fd20004223ceb4ab67616d0000b273726d48d93d02e1271774f023",
+        "width": 60
+      }
+    ],
+    "name": "2004",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "NSxiNzEzZTUwMDdiZGFkNTE4OWVhYWI1ZDQ0Nzg3OTU5YzcyMmMxMDNm",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/66LUUcQd5nVMqKszWOoA9m/tracks",
+      "total": 4
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:66LUUcQd5nVMqKszWOoA9m"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/0T2ZeOnMs7KpYU5rLtSkRR"
+    },
+    "href": "https://api.spotify.com/v1/playlists/0T2ZeOnMs7KpYU5rLtSkRR",
+    "id": "0T2ZeOnMs7KpYU5rLtSkRR",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2732018e8c7b1afffd34c930147ab67616d0000b273a69f71a8794e2d867a52f98fab67616d0000b273c528802c308a1e0e4d9945ddab67616d0000b273eecd52ae61ea9915ba46d251",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2732018e8c7b1afffd34c930147ab67616d0000b273a69f71a8794e2d867a52f98fab67616d0000b273c528802c308a1e0e4d9945ddab67616d0000b273eecd52ae61ea9915ba46d251",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2732018e8c7b1afffd34c930147ab67616d0000b273a69f71a8794e2d867a52f98fab67616d0000b273c528802c308a1e0e4d9945ddab67616d0000b273eecd52ae61ea9915ba46d251",
+        "width": 60
+      }
+    ],
+    "name": "2003",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "OSw1OGVjMDE1NTFkNGQxMTQyMTE2Zjk3OWJjMzkxMDg4MDQwNGE4MTI4",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/0T2ZeOnMs7KpYU5rLtSkRR/tracks",
+      "total": 5
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:0T2ZeOnMs7KpYU5rLtSkRR"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/4kXBgMgHvn5XsU9qRqOdiQ"
+    },
+    "href": "https://api.spotify.com/v1/playlists/4kXBgMgHvn5XsU9qRqOdiQ",
+    "id": "4kXBgMgHvn5XsU9qRqOdiQ",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b27392f2d790c6a97b195f66d51eab67616d0000b273bc3ada3a19bb4e657f10917eab67616d0000b273de09e02aa7febf30b7c02d82ab67616d0000b273f7ec724fbf97a30869d06240",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b27392f2d790c6a97b195f66d51eab67616d0000b273bc3ada3a19bb4e657f10917eab67616d0000b273de09e02aa7febf30b7c02d82ab67616d0000b273f7ec724fbf97a30869d06240",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b27392f2d790c6a97b195f66d51eab67616d0000b273bc3ada3a19bb4e657f10917eab67616d0000b273de09e02aa7febf30b7c02d82ab67616d0000b273f7ec724fbf97a30869d06240",
+        "width": 60
+      }
+    ],
+    "name": "2002",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "OSxhMzNjMjBmMmQ1NjU1ZGIyZTRlZmM3NWM2NTBlOWFkNWFmMjEwNjY5",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/4kXBgMgHvn5XsU9qRqOdiQ/tracks",
+      "total": 8
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:4kXBgMgHvn5XsU9qRqOdiQ"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/5vii4GEbLKhmll8mG4ZzOI"
+    },
+    "href": "https://api.spotify.com/v1/playlists/5vii4GEbLKhmll8mG4ZzOI",
+    "id": "5vii4GEbLKhmll8mG4ZzOI",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b273075418a1fafdfd7a455941ddab67616d0000b2730a825fea8b9095572e5130efab67616d0000b2731e0dc5baaabda304b0ad1815ab67616d0000b2736d684b553a40e4a11e1db96d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b273075418a1fafdfd7a455941ddab67616d0000b2730a825fea8b9095572e5130efab67616d0000b2731e0dc5baaabda304b0ad1815ab67616d0000b2736d684b553a40e4a11e1db96d",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b273075418a1fafdfd7a455941ddab67616d0000b2730a825fea8b9095572e5130efab67616d0000b2731e0dc5baaabda304b0ad1815ab67616d0000b2736d684b553a40e4a11e1db96d",
+        "width": 60
+      }
+    ],
+    "name": "2001",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MTMsMzg5Mzc3NjIyOTU3MDA3NDg4NjUzM2U0OThjZjQ2NjRiMDRiZmE1Nw==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/5vii4GEbLKhmll8mG4ZzOI/tracks",
+      "total": 8
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:5vii4GEbLKhmll8mG4ZzOI"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/0NLzLUOOSchzLfD1PhQXTL"
+    },
+    "href": "https://api.spotify.com/v1/playlists/0NLzLUOOSchzLfD1PhQXTL",
+    "id": "0NLzLUOOSchzLfD1PhQXTL",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b2732350e31bc346a6c20e9de166",
+        "width": 640
+      }
+    ],
+    "name": "2000",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MyxmYWQ4YTk0NzY2ZGRiNTEwZDRmNGRlMzkxZTkzZjkyM2I1MmVlZWNm",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/0NLzLUOOSchzLfD1PhQXTL/tracks",
+      "total": 2
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:0NLzLUOOSchzLfD1PhQXTL"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/1FXRC8DdlFG02L3TvQVonR"
+    },
+    "href": "https://api.spotify.com/v1/playlists/1FXRC8DdlFG02L3TvQVonR",
+    "id": "1FXRC8DdlFG02L3TvQVonR",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://mosaic.scdn.co/640/ab67616d0000b2734246e3158421f5abb75abc4fab67616d0000b27357df7ce0eac715cf70e519a7ab67616d0000b273581d9fcb8a2e6d600d59b819ab67616d0000b273eafaf556eda644a745d0144d",
+        "width": 640
+      },
+      {
+        "height": 300,
+        "url": "https://mosaic.scdn.co/300/ab67616d0000b2734246e3158421f5abb75abc4fab67616d0000b27357df7ce0eac715cf70e519a7ab67616d0000b273581d9fcb8a2e6d600d59b819ab67616d0000b273eafaf556eda644a745d0144d",
+        "width": 300
+      },
+      {
+        "height": 60,
+        "url": "https://mosaic.scdn.co/60/ab67616d0000b2734246e3158421f5abb75abc4fab67616d0000b27357df7ce0eac715cf70e519a7ab67616d0000b273581d9fcb8a2e6d600d59b819ab67616d0000b273eafaf556eda644a745d0144d",
+        "width": 60
+      }
+    ],
+    "name": "90s",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "NTksYzE4Mzc3NDkxNWEzZTEwYjAyNTlmZWFjOTI5NDhhMWJhYzk1ZjNmOQ==",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/1FXRC8DdlFG02L3TvQVonR/tracks",
+      "total": 47
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:1FXRC8DdlFG02L3TvQVonR"
+  },
+  {
+    "collaborative": false,
+    "description": "",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/playlist/4fptBtPqREpBylEHNP8RlO"
+    },
+    "href": "https://api.spotify.com/v1/playlists/4fptBtPqREpBylEHNP8RlO",
+    "id": "4fptBtPqREpBylEHNP8RlO",
+    "images": [
+      {
+        "height": 640,
+        "url": "https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53",
+        "width": 640
+      }
+    ],
+    "name": "80s",
+    "owner": {
+      "display_name": "Jesse G",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/user/9nn10v4j29fr9iibaccbhehp4"
+      },
+      "href": "https://api.spotify.com/v1/users/9nn10v4j29fr9iibaccbhehp4",
+      "id": "9nn10v4j29fr9iibaccbhehp4",
+      "type": "user",
+      "uri": "spotify:user:9nn10v4j29fr9iibaccbhehp4"
+    },
+    "primary_color": null,
+    "public": false,
+    "snapshot_id": "MyxiYjY2MWI3YzlkNTYzY2U2ZTg4OTg3MGM2NzlmZTgxMjg5ZThiMWYx",
+    "tracks": {
+      "href": "https://api.spotify.com/v1/playlists/4fptBtPqREpBylEHNP8RlO/tracks",
+      "total": 1
+    },
+    "type": "playlist",
+    "uri": "spotify:playlist:4fptBtPqREpBylEHNP8RlO"
+  }
+]
